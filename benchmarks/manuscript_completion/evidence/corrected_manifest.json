@@ -1,0 +1,27 @@
+{
+  "repeats": 7,
+  "warmups": 1,
+  "seed": 20261015,
+  "calibration": "nine complete-factor medians at rank16 plus a new cache build",
+  "source_sha256": "1f6e6c1f3b7f1a941e82ef4f2e4abb0142cf5273b69db1286efd104bfd2e3923",
+  "sample_files": {
+    "calibration\\lp_osa_30_l24_q0.csv.samples.csv": "25a2f872b176ee7770a71c95f8dbb914020eb9925ce2b6eb92b24dbf44cc3e3e",
+    "calibration\\lp_osa_30_l24_q1.csv.samples.csv": "febe88502a1372c28caade93a395fc589db6ffdcd621783135f69ad1b32026a9",
+    "calibration\\lp_osa_30_l24_q2.csv.samples.csv": "7ccbeaa173aa9216fe7829579e101612fe0d7f4e8adb120d11d908ed1f3ffce7",
+    "calibration\\lp_osa_30_l32_q0.csv.samples.csv": "87056ad33c82a0b9eef04340b7bfb3e903e3a61a901e17a7ed0e2b12fdf6b43d",
+    "calibration\\lp_osa_30_l32_q1.csv.samples.csv": "72661c83db337618f0e96fde1536236fad87a0c5d4efc2b5c9c6416d37d03a41",
+    "calibration\\lp_osa_30_l32_q2.csv.samples.csv": "13da0ca8b2147ada5d88d2050d882a8031b819b1ec25f281340a53ef8043c880",
+    "calibration\\lp_osa_30_l40_q0.csv.samples.csv": "85bdbb0109ab826e190b8916862e7e1e944e85621bc4a96315b6d912c9b85643",
+    "calibration\\lp_osa_30_l40_q1.csv.samples.csv": "a749ef575439946e0f679b28e9948601c9076bf5040f963383615f8e3daa0270",
+    "calibration\\west2021_l24_q0.csv.samples.csv": "176a9805d7ee425a6fe988309221738628f89f3d6c4391f7d62a80dcd646c986",
+    "calibration\\west2021_l24_q1.csv.samples.csv": "7f68d15bcf4caeb5eb72a799e3b7388bd54e00cbb5295058751aa6856d0f772b",
+    "calibration\\west2021_l24_q2.csv.samples.csv": "a573a69a551927d401b461e2af89f723bedb566e312f8ab7596326fbd3e593a5",
+    "calibration\\west2021_l32_q0.csv.samples.csv": "e4514e8ff9cbbe7df3e58288df28053064bf0d1656db8dcd98421c7a3b1d9d76",
+    "calibration\\west2021_l32_q1.csv.samples.csv": "4f56e52f8b75a9a84503a67dd45650c0b146952b13f18df8befc801b5a8e41e5",
+    "calibration\\west2021_l32_q2.csv.samples.csv": "578198464c23539f2ed3225aba48400a70d3207f7183e143c44e043c06f24e09",
+    "calibration\\west2021_l40_q0.csv.samples.csv": "d28ea5d9aeefbf8d9564862cd398b703273e206877108990fee813319f6cc994",
+    "calibration\\west2021_l40_q1.csv.samples.csv": "0102a0b627dd6258f75cf25c0e9527a9a4fe946e9ea760c18d376b614d62a9c9",
+    "lp_osa_30.csv.samples.csv": "fe6a0d4b02f0611ee7f766638a8f977ddc83e8602a4995b28dc7f7b66d9e427f",
+    "west2021.csv.samples.csv": "ddb0d8038dbff39892d808d019c7ae50f89df992f2388af8f1f2c85850eb6fa3"
+  }
+}

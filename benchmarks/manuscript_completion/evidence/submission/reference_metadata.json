@@ -1,0 +1,2080 @@
+{
+  "checked_at": "2026-10-16T07:05:48.618050+00:00",
+  "references": [
+    {
+      "number": 1,
+      "manuscript": "[1] Halko, N., Martinsson, P.-G., and Tropp, J. A. Finding Structure with Randomness: Probabilistic Algorithms for Constructing Approximate Matrix Decompositions. SIAM Review, 53(2), 217-288, 2011. https://doi.org/10.1137/090771806.",
+      "doi": "10.1137/090771806",
+      "source": "https://api.crossref.org/works/10.1137/090771806",
+      "http_status": 200,
+      "title": [
+        "Finding Structure with Randomness: Probabilistic Algorithms for Constructing Approximate Matrix Decompositions"
+      ],
+      "author": [
+        {
+          "given": "N.",
+          "family": "Halko",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "P. G.",
+          "family": "Martinsson",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "J. A.",
+          "family": "Tropp",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "SIAM Review"
+      ],
+      "volume": "53",
+      "issue": "2",
+      "page": "217-288",
+      "published": {
+        "date-parts": [
+          [
+            2011,
+            1
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2011,
+            1
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2011,
+            5,
+            5
+          ]
+        ]
+      },
+      "DOI": "10.1137/090771806"
+    },
+    {
+      "number": 2,
+      "manuscript": "[2] Martinsson, P.-G., and Tropp, J. A. Randomized Numerical Linear Algebra: Foundations and Algorithms. Acta Numerica, 29, 403-572, 2020. https://doi.org/10.1017/S0962492920000021.",
+      "doi": "10.1017/S0962492920000021",
+      "source": "https://api.crossref.org/works/10.1017/S0962492920000021",
+      "http_status": 200,
+      "title": [
+        "Randomized numerical linear algebra: Foundations and algorithms"
+      ],
+      "author": [
+        {
+          "given": "Per-Gunnar",
+          "family": "Martinsson",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Joel A.",
+          "family": "Tropp",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Acta Numerica"
+      ],
+      "volume": "29",
+      "page": "403-572",
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            5
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            5
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2020,
+            11,
+            30
+          ]
+        ]
+      },
+      "DOI": "10.1017/s0962492920000021"
+    },
+    {
+      "number": 3,
+      "manuscript": "[3] Tropp, J. A., Yurtsever, A., Udell, M., and Cevher, V. Practical Sketching Algorithms for Low-Rank Matrix Approximation. SIAM Journal on Matrix Analysis and Applications, 38(4), 1454-1485, 2017. https://doi.org/10.1137/17M1111590.",
+      "doi": "10.1137/17M1111590",
+      "source": "https://api.crossref.org/works/10.1137/17M1111590",
+      "http_status": 200,
+      "title": [
+        "Practical Sketching Algorithms for Low-Rank Matrix Approximation"
+      ],
+      "author": [
+        {
+          "given": "Joel A.",
+          "family": "Tropp",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Alp",
+          "family": "Yurtsever",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Madeleine",
+          "family": "Udell",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Volkan",
+          "family": "Cevher",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "SIAM Journal on Matrix Analysis and Applications"
+      ],
+      "volume": "38",
+      "issue": "4",
+      "page": "1454-1485",
+      "published": {
+        "date-parts": [
+          [
+            2017,
+            1
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            1
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2017,
+            12,
+            6
+          ]
+        ]
+      },
+      "DOI": "10.1137/17m1111590"
+    },
+    {
+      "number": 4,
+      "manuscript": "[4] Musco, C., and Musco, C. Randomized Block Krylov Methods for Stronger and Faster Approximate Singular Value Decomposition. NeurIPS 28, 1396-1404, 2015.",
+      "source": "https://papers.nips.cc/paper_files/paper/2015/hash/1efa39bcaec6f3900149160693694536-Abstract.html",
+      "http_status": 200,
+      "publisher_citation_metadata": [
+        [
+          "citation_title",
+          "Randomized Block Krylov Methods for Stronger and Faster Approximate Singular Value Decomposition"
+        ],
+        [
+          "citation_author",
+          "Musco, Cameron"
+        ],
+        [
+          "citation_author",
+          "Musco, Christopher"
+        ],
+        [
+          "citation_journal_title",
+          "Advances in Neural Information Processing Systems"
+        ],
+        [
+          "citation_volume",
+          "28"
+        ],
+        [
+          "citation_pdf_url",
+          "https://proceedings.neurips.cc/paper_files/paper/2015/file/1efa39bcaec6f3900149160693694536-Paper.pdf"
+        ],
+        [
+          "citation_publication_date",
+          "2015"
+        ]
+      ]
+    },
+    {
+      "number": 5,
+      "manuscript": "[5] Liberty, E., Woolfe, F., Martinsson, P.-G., Rokhlin, V., and Tygert, M. Randomized Algorithms for the Low-Rank Approximation of Matrices. PNAS, 104(51), 20167-20172, 2007. https://doi.org/10.1073/pnas.0709640104.",
+      "doi": "10.1073/pnas.0709640104",
+      "source": "https://api.crossref.org/works/10.1073/pnas.0709640104",
+      "http_status": 200,
+      "title": [
+        "Randomized algorithms for the low-rank approximation of matrices"
+      ],
+      "author": [
+        {
+          "given": "Edo",
+          "family": "Liberty",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Computer Science and"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Franco",
+          "family": "Woolfe",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Program in Applied Math, Yale University, 51 Prospect Street, New Haven, CT 06511; and"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Per-Gunnar",
+          "family": "Martinsson",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Applied Math, University of Colorado, 526 UCB, Boulder, CO 80309-0526"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Vladimir",
+          "family": "Rokhlin",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Computer Science and"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mark",
+          "family": "Tygert",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Program in Applied Math, Yale University, 51 Prospect Street, New Haven, CT 06511; and"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Proceedings of the National Academy of Sciences"
+      ],
+      "volume": "104",
+      "issue": "51",
+      "page": "20167-20172",
+      "published": {
+        "date-parts": [
+          [
+            2007,
+            12,
+            18
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2007,
+            12,
+            18
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2007,
+            12,
+            18
+          ]
+        ]
+      },
+      "DOI": "10.1073/pnas.0709640104"
+    },
+    {
+      "number": 6,
+      "manuscript": "[6] Woolfe, F., Liberty, E., Rokhlin, V., and Tygert, M. A Fast Randomized Algorithm for the Approximation of Matrices. Applied and Computational Harmonic Analysis, 25(3), 335-366, 2008. https://doi.org/10.1016/j.acha.2007.12.002.",
+      "doi": "10.1016/j.acha.2007.12.002",
+      "source": "https://api.crossref.org/works/10.1016/j.acha.2007.12.002",
+      "http_status": 200,
+      "title": [
+        "A fast randomized algorithm for the approximation of matrices"
+      ],
+      "author": [
+        {
+          "given": "Franco",
+          "family": "Woolfe",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Edo",
+          "family": "Liberty",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Vladimir",
+          "family": "Rokhlin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mark",
+          "family": "Tygert",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Applied and Computational Harmonic Analysis"
+      ],
+      "volume": "25",
+      "issue": "3",
+      "page": "335-366",
+      "published": {
+        "date-parts": [
+          [
+            2008,
+            11
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2008,
+            11
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.acha.2007.12.002"
+    },
+    {
+      "number": 7,
+      "manuscript": "[7] Bell, N., and Garland, M. Implementing Sparse Matrix-Vector Multiplication on Throughput-Oriented Processors. SC, 2009, 1-11. https://doi.org/10.1145/1654059.1654078.",
+      "doi": "10.1145/1654059.1654078",
+      "source": "https://api.crossref.org/works/10.1145/1654059.1654078",
+      "http_status": 200,
+      "title": [
+        "Implementing sparse matrix-vector multiplication on throughput-oriented processors"
+      ],
+      "author": [
+        {
+          "given": "Nathan",
+          "family": "Bell",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "NVIDIA Research"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Michael",
+          "family": "Garland",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "NVIDIA Research"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Proceedings of the Conference on High Performance Computing Networking, Storage and Analysis"
+      ],
+      "page": "1-11",
+      "published": {
+        "date-parts": [
+          [
+            2009,
+            11,
+            14
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2009,
+            11,
+            14
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2009,
+            11,
+            14
+          ]
+        ]
+      },
+      "DOI": "10.1145/1654059.1654078"
+    },
+    {
+      "number": 8,
+      "manuscript": "[8] Liu, W., and Vinter, B. An Efficient GPU General Sparse Matrix-Matrix Multiplication for Irregular Data. IPDPS, 2014, 370-381. https://doi.org/10.1109/IPDPS.2014.47.",
+      "doi": "10.1109/IPDPS.2014.47",
+      "source": "https://api.crossref.org/works/10.1109/IPDPS.2014.47",
+      "http_status": 200,
+      "title": [
+        "An Efficient GPU General Sparse Matrix-Matrix Multiplication for Irregular Data"
+      ],
+      "author": [
+        {
+          "given": "Weifeng",
+          "family": "Liu",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Brian",
+          "family": "Vinter",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "2014 IEEE 28th International Parallel and Distributed Processing Symposium"
+      ],
+      "page": "370-381",
+      "published": {
+        "date-parts": [
+          [
+            2014,
+            5
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2014,
+            5
+          ]
+        ]
+      },
+      "DOI": "10.1109/ipdps.2014.47"
+    },
+    {
+      "number": 9,
+      "manuscript": "[9] Tomov, S., Dongarra, J., and Baboulin, M. Towards Dense Linear Algebra for Hybrid GPU Accelerated Manycore Systems. Parallel Computing, 36(5-6), 232-240, 2010. https://doi.org/10.1016/j.parco.2009.12.005.",
+      "doi": "10.1016/j.parco.2009.12.005",
+      "source": "https://api.crossref.org/works/10.1016/j.parco.2009.12.005",
+      "http_status": 200,
+      "title": [
+        "Towards dense linear algebra for hybrid GPU accelerated manycore systems"
+      ],
+      "author": [
+        {
+          "given": "Stanimire",
+          "family": "Tomov",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jack",
+          "family": "Dongarra",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Marc",
+          "family": "Baboulin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Parallel Computing"
+      ],
+      "volume": "36",
+      "issue": "5-6",
+      "page": "232-240",
+      "published": {
+        "date-parts": [
+          [
+            2010,
+            6
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2010,
+            6
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.parco.2009.12.005"
+    },
+    {
+      "number": 10,
+      "manuscript": "[10] Davis, T. A., and Hu, Y. The University of Florida Sparse Matrix Collection. ACM TOMS, 38(1), Article 1, 2011. https://doi.org/10.1145/2049662.2049663.",
+      "doi": "10.1145/2049662.2049663",
+      "source": "https://api.crossref.org/works/10.1145/2049662.2049663",
+      "http_status": 200,
+      "title": [
+        "The university of Florida sparse matrix collection"
+      ],
+      "author": [
+        {
+          "given": "Timothy A.",
+          "family": "Davis",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "University of Florida, Gainesville, FL"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yifan",
+          "family": "Hu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "AT&amp;T Labs Research, Florham Park, NJ"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "ACM Transactions on Mathematical Software"
+      ],
+      "volume": "38",
+      "issue": "1",
+      "page": "1-25",
+      "published": {
+        "date-parts": [
+          [
+            2011,
+            11
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2011,
+            11
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2011,
+            12,
+            7
+          ]
+        ]
+      },
+      "DOI": "10.1145/2049662.2049663"
+    },
+    {
+      "number": 11,
+      "manuscript": "[11] Xia, Y., Jiang, P., Agrawal, G., and Ramnath, R. Scaling Sparse Matrix Multiplication on CPU-GPU Nodes. IPDPS, 2021, 392-401. https://doi.org/10.1109/IPDPS49936.2021.00047.",
+      "doi": "10.1109/IPDPS49936.2021.00047",
+      "source": "https://api.crossref.org/works/10.1109/IPDPS49936.2021.00047",
+      "http_status": 200,
+      "title": [
+        "Scaling Sparse Matrix Multiplication on CPU-GPU Nodes"
+      ],
+      "author": [
+        {
+          "given": "Yang",
+          "family": "Xia",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Peng",
+          "family": "Jiang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Gagan",
+          "family": "Agrawal",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Rajiv",
+          "family": "Ramnath",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)"
+      ],
+      "page": "392-401",
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            5
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            5
+          ]
+        ]
+      },
+      "DOI": "10.1109/ipdps49936.2021.00047"
+    },
+    {
+      "number": 12,
+      "manuscript": "[12] Shokrani Baigi, A., Savadi, A., and Naghibzadeh, M. A High-Performance Dynamic Scheduling for Sparse Matrix-Based Applications on Heterogeneous CPU-GPU Environment. The Journal of Supercomputing, 80(17), 25071-25098, 2024. https://doi.org/10.1007/s11227-024-06394-1.",
+      "doi": "10.1007/s11227-024-06394-1",
+      "source": "https://api.crossref.org/works/10.1007/s11227-024-06394-1",
+      "http_status": 200,
+      "title": [
+        "A high-performance dynamic scheduling for sparse matrix-based applications on heterogeneous CPU–GPU environment"
+      ],
+      "author": [
+        {
+          "given": "Ahmad",
+          "family": "Shokrani Baigi",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Abdorreza",
+          "family": "Savadi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Mahmoud",
+          "family": "Naghibzadeh",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "The Journal of Supercomputing"
+      ],
+      "volume": "80",
+      "issue": "17",
+      "page": "25071-25098",
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            7
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            11
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            7
+          ]
+        ]
+      },
+      "DOI": "10.1007/s11227-024-06394-1"
+    },
+    {
+      "number": 13,
+      "manuscript": "[13] Feng, X., Yu, W., Xie, Y., and Tang, J. Algorithm 1043: Faster Randomized SVD with Dynamic Shifts. ACM TOMS, 50(2), Article 19, 2024. https://doi.org/10.1145/3660629.",
+      "doi": "10.1145/3660629",
+      "source": "https://api.crossref.org/works/10.1145/3660629",
+      "http_status": 200,
+      "title": [
+        "Algorithm 1043: Faster Randomized SVD with Dynamic Shifts"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-3150-715X",
+          "authenticated-orcid": false,
+          "given": "Xu",
+          "family": "Feng",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Computer Science and Technology, BNRist, Tsinghua University, Beijing, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4897-7251",
+          "authenticated-orcid": false,
+          "given": "Wenjian",
+          "family": "Yu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Computer Science and Technology, BNRist, Tsinghua University, Beijing, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3152-1936",
+          "authenticated-orcid": false,
+          "given": "Yuyang",
+          "family": "Xie",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Computer Science and Technology, BNRist, Tsinghua University, Beijing, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3487-4593",
+          "authenticated-orcid": false,
+          "given": "Jie",
+          "family": "Tang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Computer Science and Technology, BNRist, Tsinghua University, Beijing, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "ACM Transactions on Mathematical Software"
+      ],
+      "volume": "50",
+      "issue": "2",
+      "page": "1-27",
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            28
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            30
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            28
+          ]
+        ]
+      },
+      "DOI": "10.1145/3660629"
+    },
+    {
+      "number": 14,
+      "manuscript": "[14] Erichson, N. B., Voronin, S., Brunton, S. L., and Kutz, J. N. Randomized Matrix Decompositions Using R. Journal of Statistical Software, 89(11), 1-48, 2019. https://doi.org/10.18637/jss.v089.i11.",
+      "doi": "10.18637/jss.v089.i11",
+      "source": "https://api.crossref.org/works/10.18637/jss.v089.i11",
+      "http_status": 200,
+      "title": [
+        "Randomized Matrix Decompositions Using\n                    <i>R</i>"
+      ],
+      "author": [
+        {
+          "given": "N. Benjamin",
+          "family": "Erichson",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sergey",
+          "family": "Voronin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Steven L.",
+          "family": "Brunton",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "J. Nathan",
+          "family": "Kutz",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Journal of Statistical Software"
+      ],
+      "volume": "89",
+      "issue": "11",
+      "published": {
+        "date-parts": [
+          [
+            2019
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2019
+          ]
+        ]
+      },
+      "DOI": "10.18637/jss.v089.i11"
+    },
+    {
+      "number": 15,
+      "manuscript": "[15] Yu, W., Gu, Y., and Li, Y. Efficient Randomized Algorithms for the Fixed-Precision Low-Rank Matrix Approximation. SIAM JMAA, 39(3), 1339-1359, 2018. https://doi.org/10.1137/17M1141977.",
+      "doi": "10.1137/17M1141977",
+      "source": "https://api.crossref.org/works/10.1137/17M1141977",
+      "http_status": 200,
+      "title": [
+        "Efficient Randomized Algorithms for the Fixed-Precision Low-Rank Matrix Approximation"
+      ],
+      "author": [
+        {
+          "given": "Wenjian",
+          "family": "Yu",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yu",
+          "family": "Gu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yaohang",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "SIAM Journal on Matrix Analysis and Applications"
+      ],
+      "volume": "39",
+      "issue": "3",
+      "page": "1339-1359",
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            1
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            1
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2018,
+            8,
+            30
+          ]
+        ]
+      },
+      "DOI": "10.1137/17m1141977"
+    },
+    {
+      "number": 16,
+      "manuscript": "[16] Martinsson, P.-G., and Voronin, S. A Randomized Blocked Algorithm for Efficiently Computing Rank-Revealing Factorizations of Matrices. SIAM JSC, 38(5), S485-S507, 2016. https://doi.org/10.1137/15M1026080.",
+      "doi": "10.1137/15M1026080",
+      "source": "https://api.crossref.org/works/10.1137/15M1026080",
+      "http_status": 200,
+      "title": [
+        "A Randomized Blocked Algorithm for Efficiently Computing Rank-revealing Factorizations of Matrices"
+      ],
+      "author": [
+        {
+          "given": "Per-Gunnar",
+          "family": "Martinsson",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sergey",
+          "family": "Voronin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "SIAM Journal on Scientific Computing"
+      ],
+      "volume": "38",
+      "issue": "5",
+      "page": "S485-S507",
+      "published": {
+        "date-parts": [
+          [
+            2016,
+            1
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2016,
+            1
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2016,
+            10,
+            27
+          ]
+        ]
+      },
+      "DOI": "10.1137/15m1026080"
+    },
+    {
+      "number": 17,
+      "manuscript": "[17] Hallman, E. A Block Bidiagonalization Method for Fixed-Accuracy Low-Rank Matrix Approximation. SIAM JMAA, 43(2), 661-680, 2022. https://doi.org/10.1137/21M1397866.",
+      "doi": "10.1137/21M1397866",
+      "source": "https://api.crossref.org/works/10.1137/21M1397866",
+      "http_status": 200,
+      "title": [
+        "A Block Bidiagonalization Method for Fixed-Accuracy Low-Rank Matrix Approximation"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-7908-2296",
+          "authenticated-orcid": true,
+          "given": "Eric",
+          "family": "Hallman",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "SIAM Journal on Matrix Analysis and Applications"
+      ],
+      "volume": "43",
+      "issue": "2",
+      "page": "661-680",
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            4,
+            27
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            6
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2022,
+            4,
+            27
+          ]
+        ]
+      },
+      "DOI": "10.1137/21m1397866"
+    },
+    {
+      "number": 18,
+      "manuscript": "[18] Bjarkason, E. K. Pass-Efficient Randomized Algorithms for Low-Rank Matrix Approximation Using Any Number of Views. SIAM JSC, 41(4), A2355-A2383, 2019. https://doi.org/10.1137/18M118966X.",
+      "doi": "10.1137/18M118966X",
+      "source": "https://api.crossref.org/works/10.1137/18M118966X",
+      "http_status": 200,
+      "title": [
+        "Pass-Efficient Randomized Algorithms for Low-Rank Matrix Approximation Using Any Number of Views"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-0616-3268",
+          "authenticated-orcid": true,
+          "given": "Elvar K.",
+          "family": "Bjarkason",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "SIAM Journal on Scientific Computing"
+      ],
+      "volume": "41",
+      "issue": "4",
+      "page": "A2355-A2383",
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            1
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            1
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2019,
+            7,
+            25
+          ]
+        ]
+      },
+      "DOI": "10.1137/18m118966x"
+    },
+    {
+      "number": 19,
+      "manuscript": "[19] Epperly, E. N., and Tropp, J. A. Efficient Error and Variance Estimation for Randomized Matrix Computations. SIAM JSC, 46(1), A508-A528, 2024. https://doi.org/10.1137/23M1558537.",
+      "doi": "10.1137/23M1558537",
+      "source": "https://api.crossref.org/works/10.1137/23M1558537",
+      "http_status": 200,
+      "title": [
+        "Efficient Error and Variance Estimation for Randomized Matrix Computations"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-0712-8296",
+          "authenticated-orcid": true,
+          "given": "Ethan N.",
+          "family": "Epperly",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Computing and Mathematical Sciences, California Institute of Technology, Pasadena, CA 91125 USA."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1024-1791",
+          "authenticated-orcid": true,
+          "given": "Joel A.",
+          "family": "Tropp",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Computing and Mathematical Sciences, California Institute of Technology, Pasadena, CA 91125 USA."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "SIAM Journal on Scientific Computing"
+      ],
+      "volume": "46",
+      "issue": "1",
+      "page": "A508-A528",
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            8
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            29
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            8
+          ]
+        ]
+      },
+      "DOI": "10.1137/23m1558537"
+    },
+    {
+      "number": 20,
+      "manuscript": "[20] Struski, Ł., Morkisz, P., Spurek, P., Rodriguez Bernabeu, S., and Trzciński, T. Efficient GPU implementation of randomized SVD and its applications. Expert Systems with Applications, 248, 123462, 2024. https://doi.org/10.1016/j.eswa.2024.123462.",
+      "doi": "10.1016/j.eswa.2024.123462",
+      "source": "https://api.crossref.org/works/10.1016/j.eswa.2024.123462",
+      "http_status": 200,
+      "title": [
+        "Efficient GPU implementation of randomized SVD and its applications"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-4006-356X",
+          "authenticated-orcid": false,
+          "given": "Łukasz",
+          "family": "Struski",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4734-966X",
+          "authenticated-orcid": false,
+          "given": "Paweł",
+          "family": "Morkisz",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Przemysław",
+          "family": "Spurek",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Samuel Rodriguez",
+          "family": "Bernabeu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1486-8906",
+          "authenticated-orcid": false,
+          "given": "Tomasz",
+          "family": "Trzciński",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Expert Systems with Applications"
+      ],
+      "volume": "248",
+      "page": "123462",
+      "article-number": "123462",
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            8
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            8
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.eswa.2024.123462"
+    },
+    {
+      "number": 21,
+      "manuscript": "[21] Lu, Y., Yamazaki, I., Ino, F., Matsushita, Y., Tomov, S., and Dongarra, J. Reducing the amount of out-of-core data access for GPU-accelerated randomized SVD. Concurrency and Computation: Practice and Experience, 32(19), e5754, 2020. https://doi.org/10.1002/cpe.5754.",
+      "doi": "10.1002/cpe.5754",
+      "source": "https://api.crossref.org/works/10.1002/cpe.5754",
+      "http_status": 200,
+      "title": [
+        "Reducing the amount of out‐of‐core data access for GPU‐accelerated randomized SVD"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-8808-1559",
+          "authenticated-orcid": false,
+          "given": "Yuechao",
+          "family": "Lu",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Graduate School of Information Science and Technology Osaka University  Osaka Japan"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ichitaro",
+          "family": "Yamazaki",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Innovative Computing Laboratory University of Tennessee  Knoxville Tennessee USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Fumihiko",
+          "family": "Ino",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Graduate School of Information Science and Technology Osaka University  Osaka Japan"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yasuyuki",
+          "family": "Matsushita",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Graduate School of Information Science and Technology Osaka University  Osaka Japan"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Stanimire",
+          "family": "Tomov",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Innovative Computing Laboratory University of Tennessee  Knoxville Tennessee USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jack",
+          "family": "Dongarra",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Innovative Computing Laboratory University of Tennessee  Knoxville Tennessee USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Concurrency and Computation: Practice and Experience"
+      ],
+      "volume": "32",
+      "issue": "19",
+      "article-number": "e5754",
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            4,
+            13
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            10,
+            10
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2020,
+            4,
+            13
+          ]
+        ]
+      },
+      "DOI": "10.1002/cpe.5754"
+    },
+    {
+      "number": 22,
+      "manuscript": "[22] Liu, Q., and Yu, Y. Efficient adaptive randomized algorithms for fixed-threshold low-rank matrix approximation. arXiv:2508.07553, 2025. https://doi.org/10.48550/arXiv.2508.07553.",
+      "source": "https://export.arxiv.org/api/query?id_list=2508.07553,2608.28941,2607.06758,2510.06490,2601.19250",
+      "http_status": 200,
+      "id": "http://arxiv.org/abs/2508.07553v1",
+      "doi": "10.48550/arXiv.2508.07553",
+      "title": [
+        "Efficient adaptive randomized algorithms for fixed-threshold low-rank matrix approximation"
+      ],
+      "author": [
+        {
+          "name": "Qiaohua Liu"
+        },
+        {
+          "name": "Yuejuan Yu"
+        }
+      ],
+      "published": "2025-08-11T02:26:29Z",
+      "updated": "2025-08-11T02:26:29Z",
+      "abstract": "The low-rank matrix approximation problems within a threshold are widely applied in information retrieval, image processing, background estimation of the video sequence problems and so on. This paper presents an adaptive randomized rank-revealing algorithm of the data matrix $A$, in which the basis matrix $Q$ of the approximate range space is adaptively built block by block, through a recursive deflation procedure on $A$. Detailed analysis of randomized projection schemes are provided to analyze the numerical rank reduce during the deflation. The provable spectral and Frobenius error $(I-QQ^T)A$ of the approximate low-rank matrix $\\tilde A=QQ^TA$ are presented, as well as the approximate singular values. This blocked deflation technique is pass-efficient and can accelerate practical computations of large matrices. Applied to image processing and background estimation problems, the blocked randomized algorithm behaves more reliable and more efficient than the known Lanczos-based method and a rank-revealing algorithm proposed by Lee, Li and Zeng (in SIAM J. Matrix Anal. Appl. 31 (2009), pp. 503-525)."
+    },
+    {
+      "number": 23,
+      "manuscript": "[23] Penke, C., and Herten, A. A GPU-Accelerated Blocked Adaptive Randomized Range Finder Based on an Implicit Householder QR Decomposition. arXiv:2608.28941, 2026. https://doi.org/10.48550/arXiv.2608.28941.",
+      "source": "https://export.arxiv.org/api/query?id_list=2508.07553,2608.28941,2607.06758,2510.06490,2601.19250",
+      "http_status": 200,
+      "id": "http://arxiv.org/abs/2608.28941v1",
+      "doi": "10.48550/arXiv.2608.28941",
+      "title": [
+        "A GPU-Accelerated Blocked Adaptive Randomized Range Finder Based on an Implicit Householder QR Decomposition"
+      ],
+      "author": [
+        {
+          "name": "Carolin Penke"
+        },
+        {
+          "name": "Andreas Herten"
+        }
+      ],
+      "published": "2026-08-28T23:24:44Z",
+      "updated": "2026-08-28T23:24:44Z",
+      "abstract": "Low-rank methods can reduce the memory and computational requirements of deep neural network training in approaches such as GaLore. Randomized range finders offer an attractive alternative to singular value decompositions, particularly when the required rank is determined adaptively from a prescribed approximation tolerance. We introduce a blocked adaptive randomized range finder based on an implicit Householder QR decomposition and an optimized hybrid CPU--GPU implementation. The proposed method avoids explicit reorthogonalization. Numerical experiments show that it preserves orthogonality and approximation accuracy in regimes where block Gram--Schmidt without reorthogonalization becomes unstable. The blocked formulation exposes matrix--matrix operations and enables overlap of CPU panel factorization with GPU updates. On an NVIDIA GH200, the overlapped implementation reduces the runtime for the largest tested matrix from 9.91 seconds on the CPU to 0.407 seconds. The method provides a stable and efficient building block for low-rank approximation on heterogeneous systems with applications in computational science and engineering."
+    },
+    {
+      "number": 24,
+      "manuscript": "[24] Smith, A. I., Do, E., and Chen, C. Adaptive, Matrix-Free Low-Rank Approximation. arXiv:2607.06758, 2026. https://doi.org/10.48550/arXiv.2607.06758.",
+      "source": "https://export.arxiv.org/api/query?id_list=2508.07553,2608.28941,2607.06758,2510.06490,2601.19250",
+      "http_status": 200,
+      "id": "http://arxiv.org/abs/2607.06758v1",
+      "doi": "10.48550/arXiv.2607.06758",
+      "title": [
+        "Adaptive, Matrix-Free Low-Rank Approximation"
+      ],
+      "author": [
+        {
+          "name": "Arnel I. Smith"
+        },
+        {
+          "name": "Elly Do"
+        },
+        {
+          "name": "Chao Chen"
+        }
+      ],
+      "published": "2026-07-07T19:41:09Z",
+      "updated": "2026-07-07T19:41:09Z",
+      "abstract": "We study fixed-tolerance low-rank approximation in the matrix-free setting, where a matrix or linear operator $\\mathbf{A}$ is accessible only through matrix-vector products and its rank must be determined adaptively to meet a prescribed error tolerance. We introduce a family of adaptive, matrix-free randomized QB algorithms. A randomized error indicator estimates the residual norm -- in either the Frobenius or the spectral norm -- directly from a random sketch, remaining accurate down to machine precision. A matrix-free rank-pruning step decouples the computational block size from the final rank, so that large, BLAS-3-friendly blocks can be used without over-estimating the rank, and an adjoint-free variant returns the orthonormal basis using only the forward operator. Across test matrices with diverse singular-value decays, the proposed methods attain ranks close to the truncated-SVD optimum while meeting the prescribed tolerance with high probability."
+    },
+    {
+      "number": 25,
+      "manuscript": "[25] Tomás, A. E., Quintana-Orti, E. S., and Anzt, H. Fast Truncated SVD of Sparse and Dense Matrices on Graphics Processors. The International Journal of High Performance Computing Applications, 37(3-4), 380-393, 2023. https://doi.org/10.1177/10943420231179699.",
+      "doi": "10.1177/10943420231179699",
+      "source": "https://api.crossref.org/works/10.1177/10943420231179699",
+      "http_status": 200,
+      "title": [
+        "Fast truncated SVD of sparse and dense matrices on graphics processors"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-3969-2174",
+          "authenticated-orcid": false,
+          "given": "Andrés E.",
+          "family": "Tomás",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Karlsruhe Institute of Technology and Innovative Computing Laboratory, University of Tennessee at Knoxville, Knoxville, TN, USA"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5454-165X",
+          "authenticated-orcid": false,
+          "given": "Enrique S.",
+          "family": "Quintana-Orti",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Karlsruhe Institute of Technology and Innovative Computing Laboratory, University of Tennessee at Knoxville, Knoxville, TN, USA"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2177-952X",
+          "authenticated-orcid": false,
+          "given": "Hartwig",
+          "family": "Anzt",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Universitat Politècnica de València, València, Spain"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "The International Journal of High Performance Computing Applications"
+      ],
+      "volume": "37",
+      "issue": "3-4",
+      "page": "380-393",
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            6,
+            7
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            7
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2023,
+            6,
+            7
+          ]
+        ]
+      },
+      "DOI": "10.1177/10943420231179699"
+    },
+    {
+      "number": 26,
+      "manuscript": "[26] Akhtiamov, D., Ghane, R., and Hassibi, B. A Precise Performance Analysis of the Randomized Singular Value Decomposition. arXiv:2510.06490, 2025. https://doi.org/10.48550/arXiv.2510.06490.",
+      "source": "https://export.arxiv.org/api/query?id_list=2508.07553,2608.28941,2607.06758,2510.06490,2601.19250",
+      "http_status": 200,
+      "id": "http://arxiv.org/abs/2510.06490v1",
+      "doi": "10.48550/arXiv.2510.06490",
+      "title": [
+        "A Precise Performance Analysis of the Randomized Singular Value Decomposition"
+      ],
+      "author": [
+        {
+          "name": "Danil Akhtiamov"
+        },
+        {
+          "name": "Reza Ghane"
+        },
+        {
+          "name": "Babak Hassibi"
+        }
+      ],
+      "published": "2025-10-07T22:06:44Z",
+      "updated": "2025-10-07T22:06:44Z",
+      "abstract": "The Randomized Singular Value Decomposition (RSVD) is a widely used algorithm for efficiently computing low-rank approximations of large matrices, without the need to construct a full-blown SVD. Of interest, of course, is the approximation error of RSVD compared to the optimal low-rank approximation error obtained from the SVD. While the literature provides various upper and lower error bounds for RSVD, in this paper we derive precise asymptotic expressions that characterize its approximation error as the matrix dimensions grow to infinity. Our expressions depend only on the singular values of the matrix, and we evaluate them for two important matrix ensembles: those with power law and bilevel singular value distributions. Our results aim to quantify the gap between the existing theoretical bounds and the actual performance of RSVD. Furthermore, we extend our analysis to polynomial-filtered RSVD, deriving performance characterizations that provide insights into optimal filter selection."
+    },
+    {
+      "number": 27,
+      "manuscript": "[27] Xu, W., Shen, W., Bai, Z., and Xu, C. Precision-induced Adaptive Randomized Low-Rank Approximation for SVD and Matrix Inversion. arXiv:2601.19250, 2026. https://doi.org/10.48550/arXiv.2601.19250.",
+      "source": "https://export.arxiv.org/api/query?id_list=2508.07553,2608.28941,2607.06758,2510.06490,2601.19250",
+      "http_status": 200,
+      "id": "http://arxiv.org/abs/2601.19250v1",
+      "doi": "10.48550/arXiv.2601.19250",
+      "title": [
+        "Precision-induced Adaptive Randomized Low-Rank Approximation for SVD and Matrix Inversion"
+      ],
+      "author": [
+        {
+          "name": "Weiwei Xu"
+        },
+        {
+          "name": "Weijie Shen"
+        },
+        {
+          "name": "Zhengjian Bai"
+        },
+        {
+          "name": "Chen Xu"
+        }
+      ],
+      "published": "2026-01-27T06:33:07Z",
+      "updated": "2026-01-27T06:33:07Z",
+      "abstract": "Singular value decomposition (SVD) and matrix inversion are ubiquitous in scientific computing. Both tasks are computationally demanding for large scale matrices. Existing algorithms can approximatively solve these problems with a given rank, which however is unknown in practice and requires considerable cost for tuning. In this paper, we tackle the SVD and matrix inversion problems from a new angle, where the optimal rank for the approximate solution is explicitly guided by the distribution of the singular values. Under the framework, we propose a precision-induced random re-normalization procedure for the considered problems without the need of guessing a good rank. The new algorithms built upon the procedure simultaneously calculate the optimal rank for the task at a desired precision level and lead to the corresponding approximate solution with a substantially reduced computational cost. The promising performance of the new algorithms is supported by both theory and numerical examples."
+    },
+    {
+      "number": 28,
+      "manuscript": "[28] Wu, L., Romero, E., and Stathopoulos, A. PRIMME_SVDS: A High-Performance Preconditioned SVD Solver for Accurate Large-Scale Computations. SIAM Journal on Scientific Computing, 39(5), S248-S271, 2017. https://doi.org/10.1137/16M1082214.",
+      "doi": "10.1137/16M1082214",
+      "source": "https://api.crossref.org/works/10.1137/16M1082214",
+      "http_status": 200,
+      "title": [
+        "PRIMME_SVDS: A High-Performance Preconditioned SVD Solver for Accurate Large-Scale Computations"
+      ],
+      "author": [
+        {
+          "given": "Lingfei",
+          "family": "Wu",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Eloy",
+          "family": "Romero",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Andreas",
+          "family": "Stathopoulos",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "SIAM Journal on Scientific Computing"
+      ],
+      "volume": "39",
+      "issue": "5",
+      "page": "S248-S271",
+      "published": {
+        "date-parts": [
+          [
+            2017,
+            1
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            1
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2017,
+            10,
+            26
+          ]
+        ]
+      },
+      "DOI": "10.1137/16m1082214"
+    }
+  ],
+  "archive": {
+    "source": "https://zenodo.org/api/records/23262787",
+    "http_status": 200,
+    "doi": "10.5281/zenodo.23262787",
+    "metadata": {
+      "title": "EA-RSVD Supplementary Material: Code and Data",
+      "doi": "10.5281/zenodo.23262787",
+      "publication_date": "2026-10-09",
+      "description": "<ol>\n<li>\n<p class=\"ds-markdown-paragraph\"><code>Source code and experimental data for the EA-RSVD paper.</code></p>\n</li>\n</ol>",
+      "access_right": "open",
+      "creators": [
+        {
+          "name": "Yuan, Ziming",
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "Randomized svd",
+        "Sparse matrix",
+        "GPU Computing",
+        "CUDA"
+      ],
+      "version": "v1.0",
+      "language": "eng",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "license": {
+        "id": "cc-by-4.0"
+      },
+      "relations": {
+        "version": [
+          {
+            "index": 0,
+            "is_last": true,
+            "parent": {
+              "pid_type": "recid",
+              "pid_value": "23262786"
+            }
+          }
+        ]
+      }
+    },
+    "files": [
+      {
+        "id": "80138f94-e5ae-480e-96cd-299e027364fb",
+        "key": "ea_het_rsvd_repro.zip",
+        "size": 97812,
+        "checksum": "md5:556e999cce40a1914652193696463cc0",
+        "links": {
+          "self": "https://zenodo.org/api/records/23262787/files/ea_het_rsvd_repro.zip/content"
+        }
+      }
+    ],
+    "updated": "2026-10-09T12:36:47.829524+00:00",
+    "status": "published"
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "energy_interpretation": "Exact-arithmetic tail lower bound; saved FP32 energy residuals are diagnostics, not certified bounds.",
+  "rank_tail_checks": [
+    {
+      "matrix": "lp_80bau3b",
+      "states": 45,
+      "cpu_rank16_reference": 0.21052157161376808,
+      "minimum_energy_tail": 0.020101116187913742,
+      "maximum_energy_tail": 0.06105962452390285,
+      "tails_above_reference_by_1e_6": 0,
+      "energy_residuals_below_reference_by_1e_6": 0,
+      "reference_above_target_020": true
+    },
+    {
+      "matrix": "lp_cre_d",
+      "states": 45,
+      "cpu_rank16_reference": 0.9603132159502876,
+      "minimum_energy_tail": 0.09625501277855622,
+      "maximum_energy_tail": 0.27189009042626017,
+      "tails_above_reference_by_1e_6": 0,
+      "energy_residuals_below_reference_by_1e_6": 0,
+      "reference_above_target_020": true
+    },
+    {
+      "matrix": "lp_fit2p",
+      "states": 45,
+      "cpu_rank16_reference": 0.010990699981735158,
+      "minimum_energy_tail": 0.001032435145662895,
+      "maximum_energy_tail": 0.003741341488022712,
+      "tails_above_reference_by_1e_6": 0,
+      "energy_residuals_below_reference_by_1e_6": 5,
+      "reference_above_target_020": false
+    },
+    {
+      "matrix": "lp_maros",
+      "states": 45,
+      "cpu_rank16_reference": 0.06286839604751228,
+      "minimum_energy_tail": 0.05197918680539355,
+      "maximum_energy_tail": 0.06119934377752755,
+      "tails_above_reference_by_1e_6": 0,
+      "energy_residuals_below_reference_by_1e_6": 1,
+      "reference_above_target_020": false
+    },
+    {
+      "matrix": "lp_osa_14",
+      "states": 45,
+      "cpu_rank16_reference": 0.5001825109083211,
+      "minimum_energy_tail": 0.281100674478024,
+      "maximum_energy_tail": 0.4856311967944399,
+      "tails_above_reference_by_1e_6": 0,
+      "energy_residuals_below_reference_by_1e_6": 0,
+      "reference_above_target_020": true
+    },
+    {
+      "matrix": "lp_osa_30",
+      "states": 45,
+      "cpu_rank16_reference": 0.5049241956061986,
+      "minimum_energy_tail": 0.28008240867287604,
+      "maximum_energy_tail": 0.49063108075926054,
+      "tails_above_reference_by_1e_6": 0,
+      "energy_residuals_below_reference_by_1e_6": 0,
+      "reference_above_target_020": true
+    },
+    {
+      "matrix": "lp_pds_02",
+      "states": 45,
+      "cpu_rank16_reference": 0.9632933836593358,
+      "minimum_energy_tail": 0.07060007739372585,
+      "maximum_energy_tail": 0.1944165557122129,
+      "tails_above_reference_by_1e_6": 0,
+      "energy_residuals_below_reference_by_1e_6": 0,
+      "reference_above_target_020": true
+    },
+    {
+      "matrix": "lp_pilot87",
+      "states": 45,
+      "cpu_rank16_reference": 0.9042763065260879,
+      "minimum_energy_tail": 0.2921660376583838,
+      "maximum_energy_tail": 0.5157781759244958,
+      "tails_above_reference_by_1e_6": 0,
+      "energy_residuals_below_reference_by_1e_6": 0,
+      "reference_above_target_020": true
+    },
+    {
+      "matrix": "lp_stocfor3",
+      "states": 45,
+      "cpu_rank16_reference": 0.9751568723335616,
+      "minimum_energy_tail": 0.10644683063389053,
+      "maximum_energy_tail": 0.2069277113776696,
+      "tails_above_reference_by_1e_6": 0,
+      "energy_residuals_below_reference_by_1e_6": 0,
+      "reference_above_target_020": true
+    },
+    {
+      "matrix": "west2021",
+      "states": 45,
+      "cpu_rank16_reference": 0.7062714370193073,
+      "minimum_energy_tail": 0.48485438897879435,
+      "maximum_energy_tail": 0.7052142209672462,
+      "tails_above_reference_by_1e_6": 0,
+      "energy_residuals_below_reference_by_1e_6": 0,
+      "reference_above_target_020": true
+    }
+  ],
+  "cache_cost_models": [
+    {
+      "matrix": "lp_osa_30",
+      "sequence": "8,16,32",
+      "requests": 3,
+      "projected_state_one_sequence_ms": 36.6079,
+      "independent_solves_one_sequence_ms": 100.9528,
+      "projected_state_with_calibration_one_sequence_ms": 258.2884,
+      "projected_state_device_payload_bytes": 17402400,
+      "materialized_rank32_payload_bytes": 13916800,
+      "materialized_rank32_fresh_solve_median_ms": 31.7103,
+      "cost_interpretation": "Sum of measured per-operation medians; not a new sequence timing. Rank32 prefix access performs no factor arithmetic. Its selection/copy cost is not timed here."
+    },
+    {
+      "matrix": "west2021",
+      "sequence": "8,16,32",
+      "requests": 3,
+      "projected_state_one_sequence_ms": 15.289,
+      "independent_solves_one_sequence_ms": 40.224900000000005,
+      "projected_state_with_calibration_one_sequence_ms": 114.42069999999998,
+      "projected_state_device_payload_bytes": 653280,
+      "materialized_rank32_payload_bytes": 517504,
+      "materialized_rank32_fresh_solve_median_ms": 13.1417,
+      "cost_interpretation": "Sum of measured per-operation medians; not a new sequence timing. Rank32 prefix access performs no factor arithmetic. Its selection/copy cost is not timed here."
+    }
+  ],
+  "prefix_checks": [
+    {
+      "matrix": "west2021",
+      "rank": 8,
+      "prefix_rank32_residual": 0.8654731580663326,
+      "separately_formed_residual": 0.8654731580663326,
+      "absolute_residual_difference": 0.0,
+      "maximum_singular_value_difference": 0.0,
+      "prefix_u_orth_frobenius": 1.5813095588557082e-06,
+      "prefix_v_orth_frobenius": 1.9752349819225594e-06
+    },
+    {
+      "matrix": "west2021",
+      "rank": 16,
+      "prefix_rank32_residual": 0.7062714370411612,
+      "separately_formed_residual": 0.7062714370411612,
+      "absolute_residual_difference": 0.0,
+      "maximum_singular_value_difference": 0.0,
+      "prefix_u_orth_frobenius": 2.6568088202220615e-06,
+      "prefix_v_orth_frobenius": 3.0587145593873143e-06
+    },
+    {
+      "matrix": "west2021",
+      "rank": 32,
+      "prefix_rank32_residual": 0.055802995555531226,
+      "separately_formed_residual": 0.055802995555531226,
+      "absolute_residual_difference": 0.0,
+      "maximum_singular_value_difference": 0.0,
+      "prefix_u_orth_frobenius": 4.07292965594499e-06,
+      "prefix_v_orth_frobenius": 4.391376639587329e-06
+    },
+    {
+      "matrix": "lp_osa_30",
+      "rank": 8,
+      "prefix_rank32_residual": 0.6518042357545055,
+      "separately_formed_residual": 0.6518042357545055,
+      "absolute_residual_difference": 0.0,
+      "maximum_singular_value_difference": 0.0,
+      "prefix_u_orth_frobenius": 1.8394623441439676e-06,
+      "prefix_v_orth_frobenius": 1.9157821010047825e-06
+    },
+    {
+      "matrix": "lp_osa_30",
+      "rank": 16,
+      "prefix_rank32_residual": 0.5049241994073146,
+      "separately_formed_residual": 0.5049241994073146,
+      "absolute_residual_difference": 0.0,
+      "maximum_singular_value_difference": 0.0,
+      "prefix_u_orth_frobenius": 2.8435263003578986e-06,
+      "prefix_v_orth_frobenius": 3.5458261422166792e-06
+    },
+    {
+      "matrix": "lp_osa_30",
+      "rank": 32,
+      "prefix_rank32_residual": 0.21294756527371528,
+      "separately_formed_residual": 0.21294756527371528,
+      "absolute_residual_difference": 0.0,
+      "maximum_singular_value_difference": 0.0,
+      "prefix_u_orth_frobenius": 4.194458363755496e-06,
+      "prefix_v_orth_frobenius": 6.034681320919813e-06
+    }
+  ],
+  "prefix_source_sha256": {
+    "west2021/input": "a1ce1fc0fd03a6b7da9dbb3edf62267fe731ad9ad0078d7a6c8816bc48cedc9d",
+    "west2021/rank32": "be7e36586e2e3ec4c8cd7a5b4206de312304d2727ff452233e9f23fa875abab0",
+    "west2021/rank8": "3c6f793bc2c53d96bf3cba0109936c0bddc67a228726b5ca23bc335e78918183",
+    "west2021/rank16": "80a58c618b0a17986793818e7e73ca8c77af74c480ea4f23ef07ee1ae343b663",
+    "lp_osa_30/input": "0bf3c17d3ed0d2e93e475f3065c0bc1bc2d7ab93dde4ef1ac7f4f047643d3dda",
+    "lp_osa_30/rank32": "5a3b2acad5d2593c98690af3e737c9b5045fd32190721c3d38ffac9775749bb5",
+    "lp_osa_30/rank8": "14986bd740a95867543950e313692fe68e9d4be971de14a84ad10dd5a024e70c",
+    "lp_osa_30/rank16": "9712b606cda1d3872a0f4eb44a3bf704f30fbc5d611055f907d2c7375b004ed2"
+  }
+}

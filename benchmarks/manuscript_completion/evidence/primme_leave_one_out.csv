@@ -1,0 +1,16 @@
+device,excluded_matrix,retained_groups,geometric_mean_primme_over_rsvd
+RTX 5070 Laptop,ca-HepPh,16,3.471011
+RTX 5070 Laptop,email-Enron,16,2.951467
+RTX 5070 Laptop,lp_osa_30,16,3.709955
+RTX 5070 Laptop,lp_pds_02,16,3.073665
+RTX 5070 Laptop,west2021,16,3.507093
+A800,ca-HepPh,16,3.602175
+A800,email-Enron,16,3.297694
+A800,lp_osa_30,16,4.220057
+A800,lp_pds_02,16,3.002118
+A800,west2021,16,2.802256
+RTX 4090D,ca-HepPh,16,3.440404
+RTX 4090D,email-Enron,16,3.188415
+RTX 4090D,lp_osa_30,16,4.211729
+RTX 4090D,lp_pds_02,16,3.133320
+RTX 4090D,west2021,16,3.671655

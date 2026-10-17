@@ -1,0 +1,38 @@
+{
+  "purpose": "Measure an additional graph grid; distinguish the pre-run grid protocol from the later post hoc common-target routing analysis.",
+  "frozen_before_execution": true,
+  "matrices": [
+    "ca-AstroPh",
+    "email-EuAll",
+    "p2p-Gnutella31",
+    "roadNet-CA"
+  ],
+  "source_collection": "UF Sparse Matrix Collection SNAP",
+  "source_base": "https://sparse.tamu.edu/MM/SNAP/",
+  "matrix_root": "data/suitesparse",
+  "rank": 16,
+  "widths": [
+    24,
+    32,
+    40
+  ],
+  "powers": [
+    0,
+    1,
+    2
+  ],
+  "seeds": [
+    20261015,
+    20261016
+  ],
+  "candidate_order": "width-major then power",
+  "thresholds": {
+    "tau_l": 0.2,
+    "tau_k": 0.2
+  },
+  "orthogonality_limit": 0.0001,
+  "executable": "build/exact_noprobe",
+  "timing_scope": "same probe-free CUDA-event pipeline as round17; Matrix Market parsing and host summary are outside GPU interval",
+  "failure_policy": "record failure, timeout, invalid output, and target-not-reached states; continue remaining cases",
+  "independence_note": "First three matrices appeared in earlier descriptive studies; new seeds and grid were fixed before measurement, roadNet-CA is new. The matched routing analysis is post hoc."
+}

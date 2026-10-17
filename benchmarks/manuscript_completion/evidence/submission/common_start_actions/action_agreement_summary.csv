@@ -1,0 +1,11 @@
+comparisons,component_agreement,group,label,threshold_agreement
+5,1.0,matrix,ca-HepPh,1.0
+5,1.0,matrix,email-Enron,1.0
+5,1.0,matrix,lp_osa_30,0.0
+5,1.0,matrix,lp_pds_02,1.0
+5,1.0,matrix,west2021,1.0
+5,1.0,seed,20261010,0.8
+5,1.0,seed,20261011,0.8
+5,1.0,seed,20261012,0.8
+5,1.0,seed,20261013,0.8
+5,1.0,seed,20261014,0.8

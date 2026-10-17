@@ -1,0 +1,54 @@
+{
+  "libraries": [
+    {
+      "name": "libopenblas.so.0",
+      "sha256": "78e63bed9f40a1877c93da99a0fc29be73ea76e4cfa83a8d14199109934a8305",
+      "bytes": 41845664
+    },
+    {
+      "name": "libgfortran.so.5",
+      "sha256": "2cfcd584e55f522299faddf1275483645e3af03e7cce35efd8af3f62c0acdd53",
+      "bytes": 11324144
+    },
+    {
+      "name": "libquadmath.so.0",
+      "sha256": "8fe91db0de9de5c221e9ba5a1d14c13fefa850e81b0c1569ef9b2e7ef25f8538",
+      "bytes": 773312
+    },
+    {
+      "name": "libgcc_s.so.1",
+      "sha256": "bbc0c0723c4ae25324adced7fa6ae6804ddf028fb72c5895312fc3cdba901b2d",
+      "bytes": 658632
+    }
+  ],
+  "packages": [
+    {
+      "name": "libopenblas",
+      "version": "0.3.34",
+      "build": "pthreads_h94d23a6_0",
+      "license": "BSD-3-Clause",
+      "url": "https://conda.anaconda.org/conda-forge/linux-64/libopenblas-0.3.34-pthreads_h94d23a6_0.conda"
+    },
+    {
+      "name": "libgcc",
+      "version": "15.2.0",
+      "build": "h69a1729_8",
+      "license": "GPL-3.0-only WITH GCC-exception-3.1",
+      "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/linux-64/libgcc-15.2.0-h69a1729_8.conda"
+    },
+    {
+      "name": "libgcc-ng",
+      "version": "15.2.0",
+      "build": "h166f726_8",
+      "license": "GPL-3.0-only WITH GCC-exception-3.1",
+      "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/linux-64/libgcc-ng-15.2.0-h166f726_8.conda"
+    },
+    {
+      "name": "libgfortran5",
+      "version": "15.2.0",
+      "build": "h68bc16d_20",
+      "license": "GPL-3.0-only WITH GCC-exception-3.1",
+      "url": "https://conda.anaconda.org/conda-forge/linux-64/libgfortran5-15.2.0-h68bc16d_20.conda"
+    }
+  ]
+}

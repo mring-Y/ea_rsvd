@@ -1,0 +1,163 @@
+{
+  "published_gpu/grid1/environment.json": {
+    "source": "published_gpu_compare_20261014/results/local_full_verified_20261014/campaign/environment.json",
+    "source_sha256": "102f32e55958511d53e9f461c9f0a4c7e533f938df6f84797b2143d28a71df3d",
+    "exported_sha256": "a40d07191f8331afbbf5c5f350a864d2a9316e9525188dc007830160a0983310",
+    "omitted_fields": [
+      "arguments.binary",
+      "arguments.matrix_root",
+      "arguments.out",
+      "nvidia_smi.gpu_uuid"
+    ]
+  },
+  "published_gpu/grid1/build_manifest.json": {
+    "source": "published_gpu_compare_20261014/results/local_full_verified_20261014/campaign/build_manifest.json",
+    "source_sha256": "74eda26341cc2788f08a9c23299738f3bd139a546a0c613eb93299acf9935265",
+    "exported_sha256": "ed0835a8201ebaa2f30a941d0eaddefffa978c6862ef51186333d631e51c4ccf",
+    "omitted_fields": []
+  },
+  "published_gpu/grid1/matrix_manifest.json": {
+    "source": "published_gpu_compare_20261014/results/local_full_verified_20261014/campaign/matrix_manifest.json",
+    "source_sha256": "559ceeccd2ba2217bbd2bee797d4b7b6df31c931bd419ea1acf790a44d8171a6",
+    "exported_sha256": "723ec7db53353fcd52697e8ce9fe56119cff3dbad8124c1c1fbc5c02fe812ae1",
+    "omitted_fields": []
+  },
+  "published_gpu/grid2/environment.json": {
+    "source": "review_experiments/published_gpu_baseline_20261013/local_fp64_verified_20261014/environment.json",
+    "source_sha256": "ecaeeedcf30ea5b93a015b33e13af5f27e6c644226d080d3268637511ad73e0d",
+    "exported_sha256": "d73475d17f1b8c6aef0c8ffde7d629b28dbb1c26110cc2ef70ef0a7b34f002af",
+    "omitted_fields": [
+      "arguments.binary",
+      "arguments.matrix_root",
+      "arguments.out",
+      "nvidia_smi.gpu_uuid"
+    ]
+  },
+  "published_gpu/grid2/build_manifest.json": {
+    "source": "review_experiments/published_gpu_baseline_20261013/local_fp64_verified_20261014/build_manifest.json",
+    "source_sha256": "74eda26341cc2788f08a9c23299738f3bd139a546a0c613eb93299acf9935265",
+    "exported_sha256": "ed0835a8201ebaa2f30a941d0eaddefffa978c6862ef51186333d631e51c4ccf",
+    "omitted_fields": []
+  },
+  "published_gpu/grid2/matrix_manifest.json": {
+    "source": "review_experiments/published_gpu_baseline_20261013/local_fp64_verified_20261014/matrix_manifest.json",
+    "source_sha256": "b8bbe982f1241643459b5ac25d1c410fa41b3706d5e48eb3ae21dd0b32fc74a2",
+    "exported_sha256": "4452b4ec57570cea4f2e04543d38d01ee229d061a24ae77b537e41cd2331f27f",
+    "omitted_fields": []
+  },
+  "published_gpu/grid3/environment.json": {
+    "source": "review_experiments/published_gpu_baseline_20261013/final_runtime_archive/results/local_quality_verified_20261014/campaign/environment.json",
+    "source_sha256": "2e795a3a13dcefb5017d2b7e8d0bef62ea9adab23bd990b3f293f0d05d9a9c6f",
+    "exported_sha256": "f161f7e120e3d47ed9f9580306d22410d4bd95cc65f8b06645f408e014ea6a6e",
+    "omitted_fields": [
+      "arguments.binary",
+      "arguments.matrix_root",
+      "arguments.out",
+      "nvidia_smi.gpu_uuid"
+    ]
+  },
+  "published_gpu/grid3/build_manifest.json": {
+    "source": "review_experiments/published_gpu_baseline_20261013/final_runtime_archive/results/local_quality_verified_20261014/campaign/build_manifest.json",
+    "source_sha256": "877f750a3055db99a3dcc84e9d4962579e8dc7f555aa16e147a8fe23b6ed32d3",
+    "exported_sha256": "419704e6a79a5b80df423ca456e3dc2e4db7c3fe49c9322c1cbda5a752b9abe3",
+    "omitted_fields": []
+  },
+  "published_gpu/grid3/matrix_manifest.json": {
+    "source": "review_experiments/published_gpu_baseline_20261013/final_runtime_archive/results/local_quality_verified_20261014/campaign/matrix_manifest.json",
+    "source_sha256": "b772e6aec79cb0ff7b4b11ee4b895327bf656301c40a136c813ed7cf70687db1",
+    "exported_sha256": "086c57c33db8573cce3c98d4a530ce305195a08c5b8af0a1ce190449b2acf3de",
+    "omitted_fields": []
+  },
+  "published_gpu/grid4/environment.json": {
+    "source": "review_experiments/published_gpu_integration_20261014/cloud_20261014/paper/20261014T065039Z_paper/campaign/environment.json",
+    "source_sha256": "60024b238e84fabb11444e9585b2bca5539026ef265c717373ec3bc32cd76f10",
+    "exported_sha256": "62ee44d62cd506e25042055244291a6b20ae499e56274d77e8c8086c3da99861",
+    "omitted_fields": [
+      "arguments.binary",
+      "arguments.matrix_root",
+      "arguments.out",
+      "nvidia_smi.gpu_uuid"
+    ]
+  },
+  "published_gpu/grid4/build_manifest.json": {
+    "source": "review_experiments/published_gpu_integration_20261014/cloud_20261014/paper/20261014T065039Z_paper/campaign/build_manifest.json",
+    "source_sha256": "d7d5edacbaa3c82390c5e7328d929a351e32437b5da0a4c5ee07e906aa9e216f",
+    "exported_sha256": "850cb1fc66c6c57a79ac1b9bec23c095721120a09ab2d684b1d357e0505d091b",
+    "omitted_fields": []
+  },
+  "published_gpu/grid4/matrix_manifest.json": {
+    "source": "review_experiments/published_gpu_integration_20261014/cloud_20261014/paper/20261014T065039Z_paper/campaign/matrix_manifest.json",
+    "source_sha256": "bcffa795750ce152715fca1259a3d116cd93cb050b5ffb5d61dfe5676f49e4c2",
+    "exported_sha256": "9f5ba196d1ce9d1e77c015c7e5588e5437c8e59a0fe8a6ffa90ebf4699f6d387",
+    "omitted_fields": []
+  },
+  "published_gpu/grid5/environment.json": {
+    "source": "review_experiments/published_gpu_integration_20261014/cloud_20261014/quality/20261014T065039Z_quality/campaign/environment.json",
+    "source_sha256": "f2c9c58355a26fe4884fbe01132becfb15bd236148bd75baf26d6bd58df453be",
+    "exported_sha256": "efecd547cd62d6865b7a9f0c907f4cf88c6972b34d4c556cbf6ed6f4958501c8",
+    "omitted_fields": [
+      "arguments.binary",
+      "arguments.matrix_root",
+      "arguments.out",
+      "nvidia_smi.gpu_uuid"
+    ]
+  },
+  "published_gpu/grid5/build_manifest.json": {
+    "source": "review_experiments/published_gpu_integration_20261014/cloud_20261014/quality/20261014T065039Z_quality/campaign/build_manifest.json",
+    "source_sha256": "2e2b7d6dc55bb164b99fe1168f6d4f0c5c90b97165b07f977ef42dcbc4585c79",
+    "exported_sha256": "e74d15d6d1bffac6647cc21624c2a30899dcd07b3c3c8435d2bd22a3239a8a38",
+    "omitted_fields": []
+  },
+  "published_gpu/grid5/matrix_manifest.json": {
+    "source": "review_experiments/published_gpu_integration_20261014/cloud_20261014/quality/20261014T065039Z_quality/campaign/matrix_manifest.json",
+    "source_sha256": "78bae76f2fc023511ed3f5637224837371a54302d41c66b617e4aa0b60c8e9b7",
+    "exported_sha256": "8e3a103ce084654581544ff6374e34cfc0161d041b5c793b8503883855135194",
+    "omitted_fields": []
+  },
+  "published_gpu/grid6/environment.json": {
+    "source": "review_experiments/published_gpu_integration_20261014/cloud_4090d_20261014/paper/20261014T111338Z_paper/campaign/environment.json",
+    "source_sha256": "49c4c40f7ed6d3cee4eabbe839ffb95d0d6113f5bacacb315835986ffe427514",
+    "exported_sha256": "3318fe38cbe28046ba0e105ed997deec962dd63dfe8fd921233f8b0b0cccf166",
+    "omitted_fields": [
+      "arguments.binary",
+      "arguments.matrix_root",
+      "arguments.out",
+      "nvidia_smi.gpu_uuid"
+    ]
+  },
+  "published_gpu/grid6/build_manifest.json": {
+    "source": "review_experiments/published_gpu_integration_20261014/cloud_4090d_20261014/paper/20261014T111338Z_paper/campaign/build_manifest.json",
+    "source_sha256": "2eed9c5ff085369aa69055ce107e88b10bb0bcf32f92dab8aa392f4a19772529",
+    "exported_sha256": "2b9046df1fe5a8ef1cc793eb07a9d9d8b4bdaf0738b5752958e2685e56813a67",
+    "omitted_fields": []
+  },
+  "published_gpu/grid6/matrix_manifest.json": {
+    "source": "review_experiments/published_gpu_integration_20261014/cloud_4090d_20261014/paper/20261014T111338Z_paper/campaign/matrix_manifest.json",
+    "source_sha256": "bd64176d7c00f9a31efe6ca7ae48799aa0866f96c7206f6c40e71895343c9f33",
+    "exported_sha256": "f252c418c1b48fa8124b94c61a130ee9ba47b767c76b1f42fa29b49faadc1736",
+    "omitted_fields": []
+  },
+  "published_gpu/grid7/environment.json": {
+    "source": "review_experiments/published_gpu_integration_20261014/cloud_4090d_20261014/quality/20261014T111338Z_quality/campaign/environment.json",
+    "source_sha256": "ed8b57787ef0eca9743ef423599b532688e01a0f8debe99c1f5cefbe670b1634",
+    "exported_sha256": "56f124322dac30282ce7fbdbbdbf2ac0b303b417df50054174d015518b3d2bf6",
+    "omitted_fields": [
+      "arguments.binary",
+      "arguments.matrix_root",
+      "arguments.out",
+      "nvidia_smi.gpu_uuid"
+    ]
+  },
+  "published_gpu/grid7/build_manifest.json": {
+    "source": "review_experiments/published_gpu_integration_20261014/cloud_4090d_20261014/quality/20261014T111338Z_quality/campaign/build_manifest.json",
+    "source_sha256": "9a487714ac5536526bcfebc85fade2ba74ee09be386890a2a69e08c522f428d0",
+    "exported_sha256": "d6ffa4bd37bb021ca4f0966b9d4553793472bd55d54f66fad5e296a08e3f46eb",
+    "omitted_fields": []
+  },
+  "published_gpu/grid7/matrix_manifest.json": {
+    "source": "review_experiments/published_gpu_integration_20261014/cloud_4090d_20261014/quality/20261014T111338Z_quality/campaign/matrix_manifest.json",
+    "source_sha256": "abc39370ddfec58e34968361056cd7fbdf54319df09d14e6e865bd52aa1b314c",
+    "exported_sha256": "8274bb36c25448f6dba20d27c173de4fea59a8d3a33690e779632208cde8102e",
+    "omitted_fields": []
+  }
+}

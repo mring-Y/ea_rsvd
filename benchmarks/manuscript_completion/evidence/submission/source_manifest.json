@@ -1,0 +1,541 @@
+{
+  "rank925.csv": {
+    "source": "review_experiments/round20_rank_adequacy_multiseed/rank_adequacy_grid.csv",
+    "source_sha256": "89cf147f455cee548296f0edafd00fe9ea38ac495dcce26c2eb47cb390edf542",
+    "rows": 925,
+    "exported_sha256": "3fd9607ab4bb8d65da4c35446f30e01855f87c8d8b511469f4f1ded5d6287487",
+    "omitted_fields": [
+      "raw_csv",
+      "source_record"
+    ],
+    "note": ""
+  },
+  "fixed450_probe_inclusive.csv": {
+    "source": "review_experiments/round16_exact_fixed_grid/fixed_grid.csv",
+    "source_sha256": "6f1c6a53254b70df8271e0f78748247886476190b5fe7ce688fd3a18169942b6",
+    "rows": 450,
+    "exported_sha256": "b0fce3319cf5a7f270fcc5b1153bfbd82abab6d97cf08d7bfb3f21f2febff449",
+    "omitted_fields": [
+      "raw_csv"
+    ],
+    "note": ""
+  },
+  "rank_summary.csv": {
+    "source": "review_experiments/round20_rank_adequacy_multiseed/rank_adequacy_summary.csv",
+    "source_sha256": "11b7c83e0a8b6f562fd3f33647a0af6109b0d2d62920fdff18232f283485ff51",
+    "rows": 20,
+    "exported_sha256": "717bf8a42f109d61b8d27ccbaedae409a82a8754d3d107f354edb1b5c52a1745",
+    "omitted_fields": [],
+    "note": ""
+  },
+  "rank_transitions.csv": {
+    "source": "review_experiments/round20_rank_adequacy_multiseed/rank_transition_summary.csv",
+    "source_sha256": "b58126a83a04afad5939b689479aa0704815da355e7f71ba3ec091e6728a8745",
+    "rows": 10,
+    "exported_sha256": "3503111fc018a4d958f224a6dbac860ebda1f770c740096c1c072217dcec28bd",
+    "omitted_fields": [],
+    "note": ""
+  },
+  "controlled_spectrum_diagnosis.csv": {
+    "source": "paper_assets/controlled_spectrum_diagnosis.csv",
+    "source_sha256": "7de20cfceed7487c5acb8e58417d931b77ef82c7ba5be26e20420df0137647a9",
+    "rows": 180,
+    "exported_sha256": "65e2e27142197f8ce80a01b8ab44da9e81c2e6fb416c19e7a6ad918c49cdf0a5",
+    "omitted_fields": [],
+    "note": "Only k<=ell records are used where applicable."
+  },
+  "extended_scale_rows.csv": {
+    "source": "paper_assets/extended_scale_rows.csv",
+    "source_sha256": "42e6b9a8425b7cdd3946236912e262762a7f0fe73f095226a70306699232c686",
+    "rows": 21,
+    "exported_sha256": "df0a89e175617b22e68234c83c0dff9d2553a5a639b3637efb59a0a1d42c328c",
+    "omitted_fields": [],
+    "note": "Only k<=ell records are used where applicable."
+  },
+  "extended_scale_summary.csv": {
+    "source": "paper_assets/extended_scale_summary.csv",
+    "source_sha256": "1816c01057b74486f9a910cd3f72cdd3d765c5a217ecdf1c1b5007bd95e8f4ef",
+    "rows": 15,
+    "exported_sha256": "5ff84163e36c87ed365ae2deca1fb3dd5e5a316fb5d7ceb6acc6187774c3e5d1",
+    "omitted_fields": [],
+    "note": "Only k<=ell records are used where applicable."
+  },
+  "nonlp_structure_summary.csv": {
+    "source": "paper_assets/nonlp_structure_summary.csv",
+    "source_sha256": "81d2a6923671124b1b46751a0e749e10ac5f0d2a0f59ab53f839adf018d215d1",
+    "rows": 12,
+    "exported_sha256": "860dbd84449d2cba2eac4f2c1b84df99a458bd317b16416d3967af80bf0bb6a9",
+    "omitted_fields": [],
+    "note": "Only k<=ell records are used where applicable."
+  },
+  "frontier_stability_summary.csv": {
+    "source": "paper_assets/frontier_stability_summary.csv",
+    "source_sha256": "4b21508c19454727cb5e844d36491183b37e1c1a56a23e516084f559b681fa5b",
+    "rows": 5,
+    "exported_sha256": "bbe2268606d182ef88091b4b945529ef42d19aa9cf3af0a1c0f4c918010b24cd",
+    "omitted_fields": [],
+    "note": "Only k<=ell records are used where applicable."
+  },
+  "frontier_seed_stability.csv": {
+    "source": "paper_assets/frontier_seed_stability.csv",
+    "source_sha256": "00a7619cc6c0e8fb65be5726799aec72d8a6c5400d8e76b6d471ad5ab759209f",
+    "rows": 20,
+    "exported_sha256": "75a34d5350486b866c2e47334d26482e00cdf96ab621f67a94c0ca9e44755947",
+    "omitted_fields": [],
+    "note": "Only k<=ell records are used where applicable."
+  },
+  "threshold_stability.csv": {
+    "source": "paper_assets/threshold_stability.csv",
+    "source_sha256": "d83790e9ac5bf3851311bc885fafc91f4ebe85de0ce2a9c77a1d4d173d0075d0",
+    "rows": 5,
+    "exported_sha256": "f7d4e94725e03e063d1b1c7baa90d45a51c9d3195abc11844965cd2efeb1e93a",
+    "omitted_fields": [],
+    "note": "Only k<=ell records are used where applicable."
+  },
+  "common_start_actions/action_efficiency.csv": {
+    "source": "paper_assets/common_start_actions/action_efficiency.csv",
+    "source_sha256": "91f864f3f42e6ae6a33207223a1e982981e45eda5b6c4c6a9af3581e39d309b0",
+    "rows": 25,
+    "exported_sha256": "6beec955d7adcfe269329355bd70e806a966e5f3389fea6b99b51fd11d88e430",
+    "omitted_fields": [],
+    "note": "Only k<=ell records are used where applicable."
+  },
+  "common_start_actions/action_efficiency_summary.csv": {
+    "source": "paper_assets/common_start_actions/action_efficiency_summary.csv",
+    "source_sha256": "6ce5d923c7cf0aa81b0780d4c6d006d841f69cae685fd545996cc309858f2a05",
+    "rows": 5,
+    "exported_sha256": "92f062642065246953b616cf72597916a723dfcddb7b2fd8938d3bc11c3c327c",
+    "omitted_fields": [],
+    "note": "Only k<=ell records are used where applicable."
+  },
+  "common_start_actions/action_agreement_summary.csv": {
+    "source": "paper_assets/common_start_actions/action_agreement_summary.csv",
+    "source_sha256": "ab8f5ac262a43cf771770632d08aad1b6788bbdd55ebe2d8ef5000a6f90044f9",
+    "rows": 10,
+    "exported_sha256": "10a833669c55173bca2751815e3c591194e28dbb73726e72d6e58c992317d63f",
+    "omitted_fields": [],
+    "note": "Only k<=ell records are used where applicable."
+  },
+  "common_start_robustness/action_efficiency.csv": {
+    "source": "paper_assets/common_start_robustness/action_efficiency.csv",
+    "source_sha256": "be7cbc22502124b7d4b71857f5013f9b8055a028f9e8a29adb085578619308c9",
+    "rows": 150,
+    "exported_sha256": "b5d7ed0dba5138bdb5e17fabc9df3c00dce0d83b00fe603b97f374cc076b3174",
+    "omitted_fields": [],
+    "note": "Only k<=ell records are used where applicable."
+  },
+  "common_start_robustness/action_agreement_summary.csv": {
+    "source": "paper_assets/common_start_robustness/action_agreement_summary.csv",
+    "source_sha256": "334a9b23f92227cc518490c8c99a0294aa264937231f7f9bf01adadfb62746dc",
+    "rows": 10,
+    "exported_sha256": "5d5859da1a290092566db0bea2fc10d8721adbbaad656ad33190de62a1be5fb9",
+    "omitted_fields": [],
+    "note": "Only k<=ell records are used where applicable."
+  },
+  "controller_path/controller_path_rows.csv": {
+    "source": "paper_assets/controller_path/controller_path_rows.csv",
+    "source_sha256": "3f02e298fe92951e5e9909850dc130b4697bed7418bd74cb4fa5206472279dd3",
+    "rows": 25,
+    "exported_sha256": "6530338c989e9626fcb830cf1def8f56049bbce32dcf0abc2c7ed329aef50d01",
+    "omitted_fields": [],
+    "note": "Only k<=ell records are used where applicable."
+  },
+  "controller_path/controller_path_summary.csv": {
+    "source": "paper_assets/controller_path/controller_path_summary.csv",
+    "source_sha256": "06d42970870f0673894e8a62e20ef190b7f96aa29027dabe2ac65d26fd489287",
+    "rows": 5,
+    "exported_sha256": "02842633a9027982960cbd10293109364d1cf75bec47ffc1779758180c7d38f9",
+    "omitted_fields": [],
+    "note": "Only k<=ell records are used where applicable."
+  },
+  "transferability/transferability_rows.csv": {
+    "source": "paper_assets/transferability/transferability_rows.csv",
+    "source_sha256": "6c240dc15bf07f199c6192fb0745705872ddc220134b141ccfc506bb0dbc4ea2",
+    "rows": 5,
+    "exported_sha256": "fbf1be9433560600061619f44ba6ebdab3ab87be0e660e7c80879b35269b672c",
+    "omitted_fields": [],
+    "note": "Only k<=ell records are used where applicable."
+  },
+  "decision_stability/decision_stability_summary.csv": {
+    "source": "paper_assets/decision_stability/decision_stability_summary.csv",
+    "source_sha256": "7a2770ef25e16708a8bc42aee9deee3fa2eaf0e3362ac28f983e780d860c4120",
+    "rows": 4,
+    "exported_sha256": "0e50e8b069af48f53c66d58da703a2b7d15406f815f3bd188c0cc84c3d786b18",
+    "omitted_fields": [],
+    "note": "Only k<=ell records are used where applicable."
+  },
+  "budget_curve/budget_curve_rows.csv": {
+    "source": "paper_assets/budget_curve/budget_curve_rows.csv",
+    "source_sha256": "e3d056dcc57ef62315266167722b35bc1acc2a0bbd812e5733fa74140b017b6b",
+    "rows": 135,
+    "exported_sha256": "e29797fce2380ad498bba9d4358dc01efb04c29062570105e88c66e153e8264e",
+    "omitted_fields": [],
+    "note": "Only k<=ell records are used where applicable."
+  },
+  "budget_curve/budget_curve_summary.csv": {
+    "source": "paper_assets/budget_curve/budget_curve_summary.csv",
+    "source_sha256": "61f5be913de8ab368fd1aed2a673dd5f6e67945b17af0e4575123687584a87e7",
+    "rows": 6,
+    "exported_sha256": "63c3d7db4e53867697544eb2bb0b445d15b94800d9a54bb6c1738b9fe3383508",
+    "omitted_fields": [],
+    "note": "Only k<=ell records are used where applicable."
+  },
+  "nonlp_rank_sweep/nonlp_rank_sweep_summary.csv": {
+    "source": "paper_assets/nonlp_rank_sweep/nonlp_rank_sweep_summary.csv",
+    "source_sha256": "a0731daa1491592a72ed1cd0a23e8cf984c4c70f72d3bc908b4859330a8408e8",
+    "rows": 27,
+    "exported_sha256": "d63d880fecf4f2ee58e05b5289dd0303b3951a65513da099a0538a309b1827bb",
+    "omitted_fields": [],
+    "note": "Only k<=ell records are used where applicable."
+  },
+  "residual_identity_check/residual_identity_rows.csv": {
+    "source": "paper_assets/residual_identity_check/residual_identity_rows.csv",
+    "source_sha256": "bcee514918413875ec95159aa6453e5140884071c9413419cb9ec980bb0b0133",
+    "rows": 540,
+    "exported_sha256": "685ccd6b95c693d04d646f50414cd783861c27bc48b5e7b6e74646271184592c",
+    "omitted_fields": [],
+    "note": "Only k<=ell records are used where applicable."
+  },
+  "spectral_stress/spectrum_stress_rows.csv": {
+    "source": "paper_assets/spectral_stress/spectrum_stress_rows.csv",
+    "source_sha256": "6bf8ab618655786862698f5871b4960e9755e45d382baa265a6e0df4484e297a",
+    "rows": 600,
+    "exported_sha256": "3536168eb3e97a4d92615b393bfb4146d43bf9efc131e4697939007193161996",
+    "omitted_fields": [],
+    "note": "Only k<=ell records are used where applicable."
+  },
+  "spectral_stress/spectrum_stress_summary.csv": {
+    "source": "paper_assets/spectral_stress/spectrum_stress_summary.csv",
+    "source_sha256": "200309450e3c3d3b54a0744d58773c47fe7f3540184b1b4e8c6682734d44a356",
+    "rows": 45,
+    "exported_sha256": "25db92e755b98fc68ea433f80f93b0a8291ba682112f51246ad4cf0ed8ae5075",
+    "omitted_fields": [],
+    "note": "Only k<=ell records are used where applicable."
+  },
+  "spectral_controller/spectral_controller_rows.csv": {
+    "source": "paper_assets/spectral_controller/spectral_controller_rows.csv",
+    "source_sha256": "7c60f2d5d8a94ac351c48f772575ace688b5a53876d460ba90e2b900645de22b",
+    "rows": 375,
+    "exported_sha256": "c1fec399586c3fa2a8caae6495fb474a8f4cf5e7e75605f93e68f85a5629f49c",
+    "omitted_fields": [],
+    "note": "Only k<=ell records are used where applicable."
+  },
+  "spectral_controller/spectral_controller_summary.csv": {
+    "source": "paper_assets/spectral_controller/spectral_controller_summary.csv",
+    "source_sha256": "5ec3eed845ad556a3719baf5998c25c4377c7585aa1173b0ef3e44a4ac847e2e",
+    "rows": 5,
+    "exported_sha256": "dc87e388d19f2c0a0aa9711c81ac339813168c3b94f9415762fd502f73428621",
+    "omitted_fields": [],
+    "note": "Only k<=ell records are used where applicable."
+  },
+  "precision_local.csv": {
+    "source": "autodl_cloud/local_precision_replay_20261003_fixed/precision_comparison.csv",
+    "source_sha256": "d5b989e3acc588242dc66751e048f9d362bed1e95f8ac293d1fe2dfdc46a3a7b",
+    "rows": 4,
+    "exported_sha256": "ebbbe944b932db9da6ce1310a884bb862f9043e3706e295e6515f242803fc054",
+    "omitted_fields": [],
+    "note": ""
+  },
+  "nonlp54.csv": {
+    "source": "local_new_experiments/nonlp_rank_sweep/nonlp_rank_sweep.csv",
+    "source_sha256": "bde09e44caf88fd8e5f5afdbaee80660794451e8aff821b740109054cbe2eaf3",
+    "rows": 54,
+    "exported_sha256": "ac87f2620fe0679ebbc9478473e9c37542fc4aedaf1e5032f1055075be5e0c82",
+    "omitted_fields": [
+      "raw_csv",
+      "stderr",
+      "stdout"
+    ],
+    "note": ""
+  },
+  "nonlp_structure24.csv": {
+    "source": "paper_assets/nonlp_structure_summary.csv",
+    "source_sha256": "81d2a6923671124b1b46751a0e749e10ac5f0d2a0f59ab53f839adf018d215d1",
+    "rows": 24,
+    "exported_sha256": "e05a12637568606af7e523cfec838ef64607954571938827a568f23c3daa99e3",
+    "omitted_fields": [],
+    "note": "Concatenated 24 individual raw state CSVs; individual source hashes recorded below.",
+    "individual_sources": {
+      "ca-AstroPh_seed20261011_q0.csv": "b9e9d948d9fd38df442a37b368c5c40c93c4606ab037e63ca376667bd6eeb4b0",
+      "ca-AstroPh_seed20261011_q1.csv": "42876187284e24dbcab1e1744e153c6869c12eec9f987a99f25f2848ebcef5d1",
+      "ca-AstroPh_seed20261011_q2.csv": "ddbbab25a5523c4e403cde7a6f06ca07221b156345f04847d16ec75f3cc32e5c",
+      "ca-AstroPh_seed20261012_q0.csv": "5f7be00b0fa3357fc282bd2f483e5ba9f0a7d886e2bc2380ac24f60eda5220a4",
+      "ca-AstroPh_seed20261012_q1.csv": "f1586eda70c1c6bb6ba0e309fdd1e6786ddfbf21f72a03e2772be2479a278a43",
+      "ca-AstroPh_seed20261012_q2.csv": "75022eff525d4ce1ee20cda7b04b6765e2e9e244f879d7ff9d54f9d6158bf185",
+      "ca-HepPh_seed20261011_q0.csv": "23f3dca5d66502e6bf20603b39f37ca76265661cf6be1fbcd5ec13426539a03b",
+      "ca-HepPh_seed20261011_q1.csv": "1d786249d49992f70a30e3e8467befaf8a5f460be92ffbb0111e6f3f308533bc",
+      "ca-HepPh_seed20261011_q2.csv": "ca93ce81a94576655d42201a5b40ecae1589d291b64a2bed75b9810707616a0a",
+      "ca-HepPh_seed20261012_q0.csv": "62eaae80b6eb441322b50c1e04ade0675df10980138ee814542b47ad7083f235",
+      "ca-HepPh_seed20261012_q1.csv": "22079aaca7119aac585d013f956db9afb3078cbe580a0677c453a688378d3bd8",
+      "ca-HepPh_seed20261012_q2.csv": "0fd67048f165d1dc5d14f69d2b4257cd0949bfee462dcf1e0fbf681375182c88",
+      "email-EuAll_seed20261011_q0.csv": "fc58111ac0aaa69116e5539cf292aec23420290afe0cbd792a0b3698598aef3c",
+      "email-EuAll_seed20261011_q1.csv": "228d0c2a283c6aecb48aa91349564350a4348b66518d5b6bca20f10f96b18fbe",
+      "email-EuAll_seed20261011_q2.csv": "e593b00e411f0a1905eb597b7ac597354dd4b00923d74e37aa2a08791f848cda",
+      "email-EuAll_seed20261012_q0.csv": "fd20f001ae660c4a15a050c9a4c0ca03a840284ccefa8c99c88401d283ee05f3",
+      "email-EuAll_seed20261012_q1.csv": "d0bd8168b9b36ed5c990d84709242830b55fc3a4c5b49d0c165e19dd7eb29755",
+      "email-EuAll_seed20261012_q2.csv": "9df0ef95e7606f488676aa1cf6fe9765765238bf18e7d1f1698d45373b3697be",
+      "p2p-Gnutella31_seed20261011_q0.csv": "ec88d9336744b0dbd536783cd61dac0b65345925b46d050ed8f1b16849b61c06",
+      "p2p-Gnutella31_seed20261011_q1.csv": "9963cdaa7c04b6d9f89074c62f6a11de93971c21a788bb4c7038313669997b6c",
+      "p2p-Gnutella31_seed20261011_q2.csv": "6843819947a1d7c6584faa64fdb1d9bc344ce7afc3689a8ffc2c9901bbf47bdd",
+      "p2p-Gnutella31_seed20261012_q0.csv": "bcd21be129b1c1632318a3cbf47848ce7ae86c940958e845e3d1520bae54a9f5",
+      "p2p-Gnutella31_seed20261012_q1.csv": "5cf0b1ed956d4e984bd88d158abb9259d65ab82331e83e2769fa0652ee5d99e8",
+      "p2p-Gnutella31_seed20261012_q2.csv": "35b439e53069a49ddd94186116d5bbb149ff6393dba7caac6dd6f3290c0b0e2c"
+    }
+  },
+  "paired4090d.csv": {
+    "source": "_autodl_results_20261004/same_cuda_sparse_reference.csv",
+    "source_sha256": "7833b9f97565b81452bd1f42ff7dca875d33c70ce77f4ce8084a970459e14971",
+    "rows": 14,
+    "exported_sha256": "71aee93192c3856912398241876bfb8abb450b30303f4a6dde830f8dd2db68d4",
+    "omitted_fields": [],
+    "note": ""
+  },
+  "paired_a800.csv": {
+    "source": "_a800_results_20261011T022344Z/same_cuda_sparse_reference.csv",
+    "source_sha256": "79f6b996581f6883e7fe39c1851d2976a5b61a38f0d3f178332a76af00249f3d",
+    "rows": 14,
+    "exported_sha256": "a3c49c80fb226321da5062f955584c24ee37885fad1ef97943f138f100b47363",
+    "omitted_fields": [],
+    "note": ""
+  },
+  "dashsvd_cpu.csv": {
+    "source": "matched_width_public_nonlp/dashsvd_public_matched.csv",
+    "source_sha256": "e97192f2741819194d9b4e95e5f21f4b49629c2d6e9406cad854d84d7d1a676e",
+    "rows": 20,
+    "exported_sha256": "a4473ac7c1f6c76d0b4a9ea91dde2a0039204171876d743fb294415cd6e479c2",
+    "omitted_fields": [],
+    "note": ""
+  },
+  "cpu_cpu_public_matched.csv": {
+    "source": "matched_width_public_nonlp/cpu_public_matched.csv",
+    "source_sha256": "0801744a3e1b5bc1d896464aa9e0c19a229f2cd0078ccde411b8a303a6b2ff16",
+    "rows": 20,
+    "exported_sha256": "eed63c3e84bee185999fc7b7a3518147cc7c5ec7bfc5eae1911cc87085450bdf",
+    "omitted_fields": [],
+    "note": ""
+  },
+  "published_gpu/grid1/records.csv": {
+    "source": "published_gpu_compare_20261014/results/local_full_verified_20261014/campaign/records.csv",
+    "source_sha256": "6045ae7a587b8d206fb0101eb8946cb289e986ea4e0e18a259597418ff9072fa",
+    "rows": 900,
+    "exported_sha256": "6045ae7a587b8d206fb0101eb8946cb289e986ea4e0e18a259597418ff9072fa",
+    "omitted_fields": [],
+    "note": "RTX 5070 Laptop FP32 primary"
+  },
+  "published_gpu/grid1/near_reference_comparisons.csv": {
+    "source": "published_gpu_compare_20261014/results/local_full_verified_20261014/campaign/near_reference_comparisons.csv",
+    "source_sha256": "64633f1934afffdc874bf30c267ae8bf0aafb4e5fdf4b4999cbc3afdb3d521b1",
+    "rows": 150,
+    "exported_sha256": "64633f1934afffdc874bf30c267ae8bf0aafb4e5fdf4b4999cbc3afdb3d521b1",
+    "omitted_fields": [],
+    "note": "RTX 5070 Laptop FP32 primary"
+  },
+  "published_gpu/grid1/joint_quality_comparisons.csv": {
+    "source": "published_gpu_compare_20261014/results/local_full_verified_20261014/campaign/joint_quality_comparisons.csv",
+    "source_sha256": "dcfcdec61ee8ea39685bdf7de59befff33400906f0d7d835f117295a717fafcc",
+    "rows": 225,
+    "exported_sha256": "dcfcdec61ee8ea39685bdf7de59befff33400906f0d7d835f117295a717fafcc",
+    "omitted_fields": [],
+    "note": "RTX 5070 Laptop FP32 primary"
+  },
+  "published_gpu/grid1/calibration_costs.csv": {
+    "source": "published_gpu_compare_20261014/results/local_full_verified_20261014/campaign/calibration_costs.csv",
+    "source_sha256": "60e28ce8a9c4b218efb4a9a2a11c7e7a52a0149ce799e965963269d80ebcc69a",
+    "rows": 150,
+    "exported_sha256": "60e28ce8a9c4b218efb4a9a2a11c7e7a52a0149ce799e965963269d80ebcc69a",
+    "omitted_fields": [],
+    "note": "RTX 5070 Laptop FP32 primary"
+  },
+  "published_gpu/grid2/records.csv": {
+    "source": "review_experiments/published_gpu_baseline_20261013/local_fp64_verified_20261014/records.csv",
+    "source_sha256": "fe472fbb761272e70d010b68b25a10b0c3598db17dcaac7a39cc02cc34ac2c58",
+    "rows": 160,
+    "exported_sha256": "fe472fbb761272e70d010b68b25a10b0c3598db17dcaac7a39cc02cc34ac2c58",
+    "omitted_fields": [],
+    "note": "RTX 5070 Laptop FP64 supplement"
+  },
+  "published_gpu/grid2/near_reference_comparisons.csv": {
+    "source": "review_experiments/published_gpu_baseline_20261013/local_fp64_verified_20261014/near_reference_comparisons.csv",
+    "source_sha256": "98d7414840b332f41727364dd6e82eae5c1a04e7735982fa3091e62f3bcc1285",
+    "rows": 38,
+    "exported_sha256": "98d7414840b332f41727364dd6e82eae5c1a04e7735982fa3091e62f3bcc1285",
+    "omitted_fields": [],
+    "note": "RTX 5070 Laptop FP64 supplement"
+  },
+  "published_gpu/grid2/joint_quality_comparisons.csv": {
+    "source": "review_experiments/published_gpu_baseline_20261013/local_fp64_verified_20261014/joint_quality_comparisons.csv",
+    "source_sha256": "7503c5289e3cab57466fed53828fb1bfb96f67c02035de8b6911574f6c3d3915",
+    "rows": 57,
+    "exported_sha256": "7503c5289e3cab57466fed53828fb1bfb96f67c02035de8b6911574f6c3d3915",
+    "omitted_fields": [],
+    "note": "RTX 5070 Laptop FP64 supplement"
+  },
+  "published_gpu/grid2/calibration_costs.csv": {
+    "source": "review_experiments/published_gpu_baseline_20261013/local_fp64_verified_20261014/calibration_costs.csv",
+    "source_sha256": "c02670f2260d6c9b20b3348907de19cacf462433be59f4236f4a264bc42db5d6",
+    "rows": 40,
+    "exported_sha256": "c02670f2260d6c9b20b3348907de19cacf462433be59f4236f4a264bc42db5d6",
+    "omitted_fields": [],
+    "note": "RTX 5070 Laptop FP64 supplement"
+  },
+  "published_gpu/grid3/records.csv": {
+    "source": "review_experiments/published_gpu_baseline_20261013/final_runtime_archive/results/local_quality_verified_20261014/campaign/records.csv",
+    "source_sha256": "f3b44af0020a66cacccc199b631321404f4e9926b6c49dfa107dc2c34204a651",
+    "rows": 200,
+    "exported_sha256": "f3b44af0020a66cacccc199b631321404f4e9926b6c49dfa107dc2c34204a651",
+    "omitted_fields": [],
+    "note": "RTX 5070 Laptop FP32 expanded"
+  },
+  "published_gpu/grid3/near_reference_comparisons.csv": {
+    "source": "review_experiments/published_gpu_baseline_20261013/final_runtime_archive/results/local_quality_verified_20261014/campaign/near_reference_comparisons.csv",
+    "source_sha256": "d4c63ac2a6d39919a83338e3a6d8432384ea670d421fdfef522e5820fb4291da",
+    "rows": 40,
+    "exported_sha256": "d4c63ac2a6d39919a83338e3a6d8432384ea670d421fdfef522e5820fb4291da",
+    "omitted_fields": [],
+    "note": "RTX 5070 Laptop FP32 expanded"
+  },
+  "published_gpu/grid3/joint_quality_comparisons.csv": {
+    "source": "review_experiments/published_gpu_baseline_20261013/final_runtime_archive/results/local_quality_verified_20261014/campaign/joint_quality_comparisons.csv",
+    "source_sha256": "0e81b0bdf05e124877fb871fc60c941b9369e2b8b867165b15ce046284494672",
+    "rows": 60,
+    "exported_sha256": "0e81b0bdf05e124877fb871fc60c941b9369e2b8b867165b15ce046284494672",
+    "omitted_fields": [],
+    "note": "RTX 5070 Laptop FP32 expanded"
+  },
+  "published_gpu/grid3/calibration_costs.csv": {
+    "source": "review_experiments/published_gpu_baseline_20261013/final_runtime_archive/results/local_quality_verified_20261014/campaign/calibration_costs.csv",
+    "source_sha256": "57c51c48f65b7e079e917b9c8ac6ea140ccfc7c5ad0eb1321cf2eb85a9f1a6ab",
+    "rows": 40,
+    "exported_sha256": "57c51c48f65b7e079e917b9c8ac6ea140ccfc7c5ad0eb1321cf2eb85a9f1a6ab",
+    "omitted_fields": [],
+    "note": "RTX 5070 Laptop FP32 expanded"
+  },
+  "published_gpu/grid4/records.csv": {
+    "source": "review_experiments/published_gpu_integration_20261014/cloud_20261014/paper/20261014T065039Z_paper/campaign/records.csv",
+    "source_sha256": "d98474a69138a702228c1685e7e202f654d9a765dbf046301bc73674e0b38d8a",
+    "rows": 600,
+    "exported_sha256": "d98474a69138a702228c1685e7e202f654d9a765dbf046301bc73674e0b38d8a",
+    "omitted_fields": [],
+    "note": "A800 FP32 primary"
+  },
+  "published_gpu/grid4/near_reference_comparisons.csv": {
+    "source": "review_experiments/published_gpu_integration_20261014/cloud_20261014/paper/20261014T065039Z_paper/campaign/near_reference_comparisons.csv",
+    "source_sha256": "cf031264d3ffd155d4c6e36e51a3baa38c5d44f6b0918d18a4759608ccb54f83",
+    "rows": 100,
+    "exported_sha256": "cf031264d3ffd155d4c6e36e51a3baa38c5d44f6b0918d18a4759608ccb54f83",
+    "omitted_fields": [],
+    "note": "A800 FP32 primary"
+  },
+  "published_gpu/grid4/joint_quality_comparisons.csv": {
+    "source": "review_experiments/published_gpu_integration_20261014/cloud_20261014/paper/20261014T065039Z_paper/campaign/joint_quality_comparisons.csv",
+    "source_sha256": "084d56bdd9c8e5ff37559bb650deabe5960c9f7e9ec8746b916c2f8b5ca2b11a",
+    "rows": 150,
+    "exported_sha256": "084d56bdd9c8e5ff37559bb650deabe5960c9f7e9ec8746b916c2f8b5ca2b11a",
+    "omitted_fields": [],
+    "note": "A800 FP32 primary"
+  },
+  "published_gpu/grid4/calibration_costs.csv": {
+    "source": "review_experiments/published_gpu_integration_20261014/cloud_20261014/paper/20261014T065039Z_paper/campaign/calibration_costs.csv",
+    "source_sha256": "65697d37244acd37635dd5451014a76d948f825b22daaace72b0fa934f59f7ea",
+    "rows": 100,
+    "exported_sha256": "65697d37244acd37635dd5451014a76d948f825b22daaace72b0fa934f59f7ea",
+    "omitted_fields": [],
+    "note": "A800 FP32 primary"
+  },
+  "published_gpu/grid5/records.csv": {
+    "source": "review_experiments/published_gpu_integration_20261014/cloud_20261014/quality/20261014T065039Z_quality/campaign/records.csv",
+    "source_sha256": "4368c7ae63d1fee6c085ecd227096abc03c7932d1bcfa8d0e6ed9939ccf3f5a6",
+    "rows": 200,
+    "exported_sha256": "4368c7ae63d1fee6c085ecd227096abc03c7932d1bcfa8d0e6ed9939ccf3f5a6",
+    "omitted_fields": [],
+    "note": "A800 FP32 expanded"
+  },
+  "published_gpu/grid5/near_reference_comparisons.csv": {
+    "source": "review_experiments/published_gpu_integration_20261014/cloud_20261014/quality/20261014T065039Z_quality/campaign/near_reference_comparisons.csv",
+    "source_sha256": "14b644fb2cad75e86a95f45fb95fc2bde1cfabf319e9d9c292961e98cdd5389c",
+    "rows": 40,
+    "exported_sha256": "14b644fb2cad75e86a95f45fb95fc2bde1cfabf319e9d9c292961e98cdd5389c",
+    "omitted_fields": [],
+    "note": "A800 FP32 expanded"
+  },
+  "published_gpu/grid5/joint_quality_comparisons.csv": {
+    "source": "review_experiments/published_gpu_integration_20261014/cloud_20261014/quality/20261014T065039Z_quality/campaign/joint_quality_comparisons.csv",
+    "source_sha256": "48d877b5dde904ee9f1d69334d14660508ee1e88052613e0f56e09258b9e6b40",
+    "rows": 60,
+    "exported_sha256": "48d877b5dde904ee9f1d69334d14660508ee1e88052613e0f56e09258b9e6b40",
+    "omitted_fields": [],
+    "note": "A800 FP32 expanded"
+  },
+  "published_gpu/grid5/calibration_costs.csv": {
+    "source": "review_experiments/published_gpu_integration_20261014/cloud_20261014/quality/20261014T065039Z_quality/campaign/calibration_costs.csv",
+    "source_sha256": "089f433f997094446f0acc513c2fc04a6addcb6bcb9c909bcec2125c999df5b1",
+    "rows": 40,
+    "exported_sha256": "089f433f997094446f0acc513c2fc04a6addcb6bcb9c909bcec2125c999df5b1",
+    "omitted_fields": [],
+    "note": "A800 FP32 expanded"
+  },
+  "published_gpu/grid6/records.csv": {
+    "source": "review_experiments/published_gpu_integration_20261014/cloud_4090d_20261014/paper/20261014T111338Z_paper/campaign/records.csv",
+    "source_sha256": "7bc1d32fdf70d98ea831dd61bd992bc25ea701971e2206ee7451c825a6e158bf",
+    "rows": 600,
+    "exported_sha256": "7bc1d32fdf70d98ea831dd61bd992bc25ea701971e2206ee7451c825a6e158bf",
+    "omitted_fields": [],
+    "note": "RTX 4090D FP32 primary"
+  },
+  "published_gpu/grid6/near_reference_comparisons.csv": {
+    "source": "review_experiments/published_gpu_integration_20261014/cloud_4090d_20261014/paper/20261014T111338Z_paper/campaign/near_reference_comparisons.csv",
+    "source_sha256": "e634216f547a88679e5b95ff55166cc1d05a3d75289c54a307811b2cb36f4a95",
+    "rows": 100,
+    "exported_sha256": "e634216f547a88679e5b95ff55166cc1d05a3d75289c54a307811b2cb36f4a95",
+    "omitted_fields": [],
+    "note": "RTX 4090D FP32 primary"
+  },
+  "published_gpu/grid6/joint_quality_comparisons.csv": {
+    "source": "review_experiments/published_gpu_integration_20261014/cloud_4090d_20261014/paper/20261014T111338Z_paper/campaign/joint_quality_comparisons.csv",
+    "source_sha256": "4372fd3a0d952156bdb8078072f9f4607c2eb14ea568e5bae4ca060c09c6b133",
+    "rows": 150,
+    "exported_sha256": "4372fd3a0d952156bdb8078072f9f4607c2eb14ea568e5bae4ca060c09c6b133",
+    "omitted_fields": [],
+    "note": "RTX 4090D FP32 primary"
+  },
+  "published_gpu/grid6/calibration_costs.csv": {
+    "source": "review_experiments/published_gpu_integration_20261014/cloud_4090d_20261014/paper/20261014T111338Z_paper/campaign/calibration_costs.csv",
+    "source_sha256": "9f1bc9342b98c6da14b2258130b093fcfdc5d10bb20e1aad44f1f0b917e8214e",
+    "rows": 100,
+    "exported_sha256": "9f1bc9342b98c6da14b2258130b093fcfdc5d10bb20e1aad44f1f0b917e8214e",
+    "omitted_fields": [],
+    "note": "RTX 4090D FP32 primary"
+  },
+  "published_gpu/grid7/records.csv": {
+    "source": "review_experiments/published_gpu_integration_20261014/cloud_4090d_20261014/quality/20261014T111338Z_quality/campaign/records.csv",
+    "source_sha256": "d612e05f2ec575bfde2582fd0aef0284523c1146b8297c8ceb1dda8f034f5527",
+    "rows": 200,
+    "exported_sha256": "d612e05f2ec575bfde2582fd0aef0284523c1146b8297c8ceb1dda8f034f5527",
+    "omitted_fields": [],
+    "note": "RTX 4090D FP32 expanded"
+  },
+  "published_gpu/grid7/near_reference_comparisons.csv": {
+    "source": "review_experiments/published_gpu_integration_20261014/cloud_4090d_20261014/quality/20261014T111338Z_quality/campaign/near_reference_comparisons.csv",
+    "source_sha256": "e705fe6fa3fcb63c616662efdf5805f26300d33bd818c1e8c67376df117f6d18",
+    "rows": 40,
+    "exported_sha256": "e705fe6fa3fcb63c616662efdf5805f26300d33bd818c1e8c67376df117f6d18",
+    "omitted_fields": [],
+    "note": "RTX 4090D FP32 expanded"
+  },
+  "published_gpu/grid7/joint_quality_comparisons.csv": {
+    "source": "review_experiments/published_gpu_integration_20261014/cloud_4090d_20261014/quality/20261014T111338Z_quality/campaign/joint_quality_comparisons.csv",
+    "source_sha256": "3a14da2d7de0b8dc69f0e0500ee60e4423c1f2f56b23554535c886c5f10ecd8e",
+    "rows": 60,
+    "exported_sha256": "3a14da2d7de0b8dc69f0e0500ee60e4423c1f2f56b23554535c886c5f10ecd8e",
+    "omitted_fields": [],
+    "note": "RTX 4090D FP32 expanded"
+  },
+  "published_gpu/grid7/calibration_costs.csv": {
+    "source": "review_experiments/published_gpu_integration_20261014/cloud_4090d_20261014/quality/20261014T111338Z_quality/campaign/calibration_costs.csv",
+    "source_sha256": "f18fd4a4d3af6d423123ed1ae520a4e3306a78049a1e7aa5253b9bf42e286a59",
+    "rows": 40,
+    "exported_sha256": "f18fd4a4d3af6d423123ed1ae520a4e3306a78049a1e7aa5253b9bf42e286a59",
+    "omitted_fields": [],
+    "note": "RTX 4090D FP32 expanded"
+  }
+}

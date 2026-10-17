@@ -1,0 +1,5 @@
+matrix,max_abs_delta_sigma_diff,max_abs_rho_k_diff,max_abs_rho_l_diff,max_q_orth,mode_decision_disagreements,rho_k_lt_rho_l_violations,seeds
+ca-AstroPh.mtx,1.000E-006,0.000E+000,1.820E-004,4.728E-007,0,0,5
+ca-HepPh.mtx,1.000E-006,1.000E-006,4.300E-004,4.811E-007,0,0,5
+email-EuAll.mtx,3.000E-006,1.000E-006,6.960E-004,9.593E-006,0,0,5
+p2p-Gnutella31.mtx,1.000E-006,0.000E+000,5.600E-005,5.354E-007,0,0,5

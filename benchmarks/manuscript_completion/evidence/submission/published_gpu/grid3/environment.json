@@ -1,0 +1,88 @@
+{
+  "utc_started": "2026-10-14T05:03:24.318462+00:00",
+  "python": "3.10.22 (main, Oct  1 2026, 20:14:04) [GCC 14.3.0]",
+  "numpy": "2.2.6",
+  "scipy": "1.15.2",
+  "benchmark_source_sha256": "3e70f9557fd4afb9c1caf4de8d59e752c81162ac50570c5d0b4312bda9d5249e",
+  "benchmark_binary_sha256": "0be176cdfc9799cb259b321895e50e6a70774b5720df82ec223083361f54caad",
+  "campaign_source_sha256": "7263eb2fe13a19c0bd4bc7a9bf4bda02c83e253a63a85582a566ce5e6e7419cd",
+  "source_snapshot_sha256": {
+    "gpu_compare.cu": "3e70f9557fd4afb9c1caf4de8d59e752c81162ac50570c5d0b4312bda9d5249e",
+    "campaign.py": "7263eb2fe13a19c0bd4bc7a9bf4bda02c83e253a63a85582a566ce5e6e7419cd",
+    "benchmark_support.py": "783878c20db6e1c4dd2039d9dd980f0643c39b517072ef39994aef528d57db1a",
+    "analyse_results.py": "164c1d4cf300b07fb9e03726446d980beb61f09e2286fc769c6c9cfad502c87a",
+    "build_gpu.py": "fa0e269f94b88821b2dacdde74b8bdb428c8b79d54a1a57b82c6702035fd3929",
+    "run_autodl_all.sh": "8f3986c2d70d048f40bdf7336afc641f0758d826b33ec0d59701e1854e39531b",
+    "run_autodl_review.sh": "1028da0e35d0ab6744dff966ff77ba37ef4b8d9b919bb666c5ef3798523f0c9a",
+    "cpu_crosscheck.py": "e1800750764ded66c5c40c9b39c1a717a7f4bd96079606ed1133459ad3b95aa1",
+    "rebuild_summary.py": "271cec105024cefb18bb89be30d1519819cee47defcc34e77c777fa7287dd8cf"
+  },
+  "protocol": "complete factors; resident CSR; synchronized wall clock",
+  "cpu_threads": {
+    "OPENBLAS_NUM_THREADS": "1",
+    "OMP_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1"
+  },
+  "arguments": {
+    "matrices": [
+      "west2021",
+      "lp_osa_30",
+      "lp_pds_02",
+      "ca-HepPh",
+      "email-Enron"
+    ],
+    "ranks": [
+      16,
+      32
+    ],
+    "seeds": [
+      20261013,
+      20261014
+    ],
+    "precisions": [
+      "fp32"
+    ],
+    "solvers": [
+      "rsvd",
+      "primme"
+    ],
+    "oversampling": [
+      24
+    ],
+    "powers": [
+      2,
+      4,
+      6,
+      8
+    ],
+    "eps": [
+      0.01,
+      0.001,
+      1e-05
+    ],
+    "block_sizes": [
+      1,
+      8
+    ],
+    "warmup": 1,
+    "repeats": 3,
+    "timeout": 180,
+    "max_matvecs": 20000,
+    "retain_factors": false
+  },
+  "devices": [
+    {
+      "model": "NVIDIA GeForce RTX 5070 Laptop GPU",
+      "memory": "8151 MiB",
+      "driver": "573.24"
+    }
+  ],
+  "recorded_cuda_devices": [
+    {
+      "gpu": "NVIDIA GeForce RTX 5070 Laptop GPU",
+      "compute_capability": "120",
+      "cuda_runtime": "12080",
+      "driver_api": "12080"
+    }
+  ]
+}

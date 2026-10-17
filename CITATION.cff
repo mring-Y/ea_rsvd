@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Residual Pair Diagnosis and Finite Grid Calibration for Sparse GPU Randomized SVD"
+message: "Please cite the accompanying manuscript. This is an unpublished local source/evidence supplement; DOI 10.5281/zenodo.23262787 identifies the original campaign archive, not this snapshot."
+type: software
+authors:
+  - family-names: Yuan
+    given-names: Ziming
+    affiliation: China University of Geosciences (Beijing)
+version: "1.6.0-dev"
+license: MIT
+references:
+  - type: software
+    title: "EA-RSVD Supplementary Material: Code and Data"
+    authors:
+      - family-names: Yuan
+        given-names: Ziming
+    doi: 10.5281/zenodo.23262787
+    version: "v1.0"
+    date-released: 2026-10-09
+keywords:
+  - randomized SVD
+  - sparse matrices
+  - CUDA
+  - GPU computing
+  - cuSPARSE
+  - reproducible experiments

@@ -1,0 +1,6 @@
+matrix,oracle_gpu_ms,oracle_power,oracle_rho_k,oracle_width,training_matrices,training_mean_rho_k,transfer_cost_ratio,transfer_excess_rho_k,transfer_gpu_ms,transfer_power,transfer_quality_ratio,transfer_rho_k,transfer_width
+ca-HepPh,160.0102,2,0.7002927999999999,40,4,0.77538165,1.0,0.0,160.0102,2,1.0,0.7002927999999999,40
+email-Enron,177.1168,2,0.9262528,40,4,0.71889165,1.0,0.0,177.1168,2,1.0,0.9262528,40
+lp_osa_30,182.7614,2,0.504924,40,4,0.82422385,1.0,0.0,182.7614,2,1.0,0.504924,40
+lp_pds_02,147.1996,2,0.9640788,40,4,0.70943515,1.0,0.0,147.1996,2,1.0,0.9640788,40
+west2021,142.939,2,0.706271,32,4,0.7738871,1.0377111914872779,0.0,148.3294,2,1.0,0.706271,40

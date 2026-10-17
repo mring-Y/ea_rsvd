@@ -1,0 +1,61 @@
+# Downloaded public inputs and normalized/raw Matrix Market files
+data/suitesparse/**/*.mtx
+data/suitesparse/**/*.raw.mtx
+data/suitesparse/_archives/
+data/suitesparse/autodl_matrix_manifest.json
+
+# Local CUDA/CMake build products
+build/
+build_*/
+build_a800_minimal/
+cmake-build-*/
+*.o
+*.obj
+*.ptx
+*.cubin
+*.fatbin
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+*.exp
+
+# Generated experiment results and logs
+results/*
+!results/.gitkeep
+*.csv
+!benchmarks/manuscript_completion/evidence/**/*.csv
+!benchmarks/manuscript_completion/evidence/*.csv
+*.log
+*.stdout
+*.stderr
+*.tar.gz
+*.tar.gz.sha256
+*.zip
+*.zip.sha256
+
+# Python and editor state
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.mypy_cache/
+.idea/
+.vscode/
+
+# Standalone published-solver benchmark runtime files
+benchmarks/manuscript_completion/results/
+benchmarks/published_gpu/build/
+benchmarks/published_gpu/build_*/
+benchmarks/published_gpu/results/
+benchmarks/published_gpu/data/*
+!benchmarks/published_gpu/data/matrix_sources.json
+benchmarks/published_gpu/third_party/cpu_lib/
+benchmarks/published_gpu/.python_packages/
+benchmarks/published_gpu/asset_download_logs/
+
+# OS files
+.DS_Store
+Thumbs.db

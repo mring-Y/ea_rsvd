@@ -1,0 +1,42 @@
+[
+  {
+    "name": "west2021",
+    "file": "west2021.mtx",
+    "sha256": "f95dae63c36b8586785bd1dbdaed9ffa4d6f4f10f04b92815a3f98a6c49c2e56",
+    "bytes": 125295,
+    "page": "https://sparse.tamu.edu/HB/west2021",
+    "archive": "https://sparse.tamu.edu/MM/HB/west2021.tar.gz"
+  },
+  {
+    "name": "lp_osa_30",
+    "file": "lp_osa_30.mtx",
+    "sha256": "01fcc847421fc17f3f07e5f38457f8f3d36575d4e94f3c44f7d7505c1fcd2668",
+    "bytes": 9299175,
+    "page": "https://sparse.tamu.edu/LPnetlib/lp_osa_30",
+    "archive": "https://sparse.tamu.edu/MM/LPnetlib/lp_osa_30.tar.gz"
+  },
+  {
+    "name": "lp_pds_02",
+    "file": "lp_pds_02.mtx",
+    "sha256": "c4b8262363aa08c0f1f5b9489f01f081b13ef7939c48daafe9f3cd98437238f6",
+    "bytes": 201285,
+    "page": "https://sparse.tamu.edu/LPnetlib/lp_pds_02",
+    "archive": "https://sparse.tamu.edu/MM/LPnetlib/lp_pds_02.tar.gz"
+  },
+  {
+    "name": "ca-HepPh",
+    "file": "ca-HepPh.mtx",
+    "sha256": "dce0f34d245a8906c890d1f44e75a37720c9e3f1d13f6fb11bf09996e8378e75",
+    "bytes": 1205986,
+    "page": "https://sparse.tamu.edu/SNAP/ca-HepPh",
+    "archive": "https://sparse.tamu.edu/MM/SNAP/ca-HepPh.tar.gz"
+  },
+  {
+    "name": "email-Enron",
+    "file": "email-Enron.mtx",
+    "sha256": "ac766218c88bf2afdf5d6b1f487c5dc98315669a37c2433a5c71be9772793f40",
+    "bytes": 1844905,
+    "page": "https://sparse.tamu.edu/SNAP/email-Enron",
+    "archive": "https://sparse.tamu.edu/MM/SNAP/email-Enron.tar.gz"
+  }
+]

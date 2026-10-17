@@ -1,0 +1,86 @@
+{
+  "utc_started": "2026-10-14T00:22:14.236182+00:00",
+  "python": "3.10.22 (main, Oct  1 2026, 20:14:04) [GCC 14.3.0]",
+  "numpy": "2.2.6",
+  "scipy": "1.15.2",
+  "benchmark_source_sha256": "8f88a451ada6c99b6666433cf4f3bd8882606b39bd2f52e694cfd9bf7707fcc2",
+  "campaign_source_sha256": "a4cbda0ba21cf50fe702ef57d69a1189ab9347816e943b81bf3476f992fb626a",
+  "protocol": "complete factors; resident CSR; synchronized wall clock",
+  "cpu_threads": {
+    "OPENBLAS_NUM_THREADS": "1",
+    "OMP_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1"
+  },
+  "arguments": {
+    "matrices": [
+      "west2021",
+      "lp_osa_30",
+      "lp_pds_02",
+      "ca-HepPh",
+      "email-Enron"
+    ],
+    "ranks": [
+      16,
+      32,
+      64
+    ],
+    "seeds": [
+      20261013,
+      20261014,
+      20261015,
+      20261016,
+      20261017
+    ],
+    "precisions": [
+      "fp32"
+    ],
+    "solvers": [
+      "rsvd",
+      "primme"
+    ],
+    "oversampling": [
+      8,
+      24
+    ],
+    "powers": [
+      0,
+      1,
+      2
+    ],
+    "eps": [
+      0.0001,
+      1e-05,
+      1e-06
+    ],
+    "block_sizes": [
+      1,
+      8
+    ],
+    "warmup": 1,
+    "repeats": 5,
+    "timeout": 180,
+    "max_matvecs": 20000,
+    "retain_factors": false
+  },
+  "devices": [
+    {
+      "model": "NVIDIA GeForce RTX 5070 Laptop GPU",
+      "memory": "8151 MiB",
+      "driver": "573.24"
+    }
+  ],
+  "recorded_cuda_devices": [
+    {
+      "gpu": "NVIDIA GeForce RTX 5070 Laptop GPU",
+      "compute_capability": "",
+      "cuda_runtime": "",
+      "driver_api": ""
+    },
+    {
+      "gpu": "NVIDIA GeForce RTX 5070 Laptop GPU",
+      "compute_capability": "120",
+      "cuda_runtime": "12080",
+      "driver_api": "12080"
+    }
+  ]
+}

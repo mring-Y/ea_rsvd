@@ -1,0 +1,4 @@
+# Preserve exact source/evidence bytes so SHA-256 manifests survive clones.
+* -text
+# Release validation requires shell runners to already use LF endings.
+*.sh text eol=lf

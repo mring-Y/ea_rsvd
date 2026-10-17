@@ -1,0 +1,52 @@
+[
+  {
+    "name": "west2021",
+    "status": "ok",
+    "rows": 2021,
+    "cols": 2021,
+    "nnz": 7310,
+    "source_sha256": "f95dae63c36b8586785bd1dbdaed9ffa4d6f4f10f04b92815a3f98a6c49c2e56",
+    "csr_sha256": "a1ce1fc0fd03a6b7da9dbb3edf62267fe731ad9ad0078d7a6c8816bc48cedc9d",
+    "prepare_ms": 59.393980000095326
+  },
+  {
+    "name": "lp_osa_30",
+    "status": "ok",
+    "rows": 4350,
+    "cols": 104374,
+    "nnz": 604488,
+    "source_sha256": "01fcc847421fc17f3f07e5f38457f8f3d36575d4e94f3c44f7d7505c1fcd2668",
+    "csr_sha256": "0bf3c17d3ed0d2e93e475f3065c0bc1bc2d7ab93dde4ef1ac7f4f047643d3dda",
+    "prepare_ms": 430.85472600068897
+  },
+  {
+    "name": "lp_pds_02",
+    "status": "ok",
+    "rows": 2953,
+    "cols": 7716,
+    "nnz": 16571,
+    "source_sha256": "c4b8262363aa08c0f1f5b9489f01f081b13ef7939c48daafe9f3cd98437238f6",
+    "csr_sha256": "a6dadc7021ffad4154c84f4b5730385032cff5f459b7ac6de7a87a922a240a81",
+    "prepare_ms": 53.77763899923593
+  },
+  {
+    "name": "ca-HepPh",
+    "status": "ok",
+    "rows": 12008,
+    "cols": 12008,
+    "nnz": 237010,
+    "source_sha256": "dce0f34d245a8906c890d1f44e75a37720c9e3f1d13f6fb11bf09996e8378e75",
+    "csr_sha256": "7fd5bd0464051f9599ea32c30049328b89a085acf6a85bc46330ef049c0c6a35",
+    "prepare_ms": 124.84790999951656
+  },
+  {
+    "name": "email-Enron",
+    "status": "ok",
+    "rows": 36692,
+    "cols": 36692,
+    "nnz": 367662,
+    "source_sha256": "ac766218c88bf2afdf5d6b1f487c5dc98315669a37c2433a5c71be9772793f40",
+    "csr_sha256": "31b3c04bf5bba7ae54eb5839613fe905bec117432ff698d1d16e8fc494d5a65b",
+    "prepare_ms": 189.37738699969486
+  }
+]

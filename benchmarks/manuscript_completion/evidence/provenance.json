@@ -1,0 +1,103 @@
+{
+  "version": "2026-10-16-submission",
+  "manuscript": "ea_rsvd_manuscript_rank_diagnostic_completed.docx",
+  "manuscript_sha256": "0c5540f299347eeaf185960113ba45dec72cc33fc1523623203031ce392a6054",
+  "original_archive_doi": "10.5281/zenodo.23262787",
+  "public_release_state": "local source/evidence supplement, not uploaded",
+  "sources": {
+    "core450": {
+      "source_sha256": "0ff24997102148368a5edded19d88487bed0533667534228eddd34a83e944db4",
+      "rows": 450
+    },
+    "additional72": {
+      "source_sha256": "146ddf1f1c46f905806b0c60e07d39ed9d6b7a86cf691563951bfdcb39bb12f7",
+      "rows": 72
+    },
+    "primme_RTX 5070 Laptop": {
+      "source_sha256": "d4c63ac2a6d39919a83338e3a6d8432384ea670d421fdfef522e5820fb4291da",
+      "groups": 20
+    },
+    "primme_A800": {
+      "source_sha256": "14b644fb2cad75e86a95f45fb95fc2bde1cfabf319e9d9c292961e98cdd5389c",
+      "groups": 20
+    },
+    "primme_RTX 4090D": {
+      "source_sha256": "e705fe6fa3fcb63c616662efdf5805f26300d33bd818c1e8c67376df117f6d18",
+      "groups": 20
+    }
+  },
+  "inputs": {
+    "lp_80bau3b": {
+      "url": "https://sparse.tamu.edu/MM/LPnetlib/lp_80bau3b.tar.gz",
+      "normalized_mm_sha256": "844e03ea3d3b8974625f6a8a5d7705916cbe1bba72f9f5decdcf88e9d6d865d4",
+      "canonical_csr_sha256": "40739fcd410d5088abcafb7f0951af515fe6fd1f0862f336be98dd3300905a82"
+    },
+    "lp_cre_d": {
+      "url": "https://sparse.tamu.edu/MM/LPnetlib/lp_cre_d.tar.gz",
+      "normalized_mm_sha256": "859f4a0161bb74f558a7f24bf33a00b053231be16067ae2874af69825d5c3713",
+      "canonical_csr_sha256": "b26a6dd4af5a67330105d78710ac74583688993725b7434c0a77b02c21588a7f"
+    },
+    "lp_fit2p": {
+      "url": "https://sparse.tamu.edu/MM/LPnetlib/lp_fit2p.tar.gz",
+      "normalized_mm_sha256": "d2642ef31972aa20be48183dd7330ab3494c64b1d81c6d77fd8ff26a95d63f42",
+      "canonical_csr_sha256": "2b7b8aa18bf9445a2c9fb707d482e8406a9d24d14f0e5da77acb6ed6f04baad1"
+    },
+    "lp_maros": {
+      "url": "https://sparse.tamu.edu/MM/LPnetlib/lp_maros.tar.gz",
+      "normalized_mm_sha256": "de2b22035c73c73150490c95a0769dab34a102b62fdcdec17a539bffc237479d",
+      "canonical_csr_sha256": "e1b1ed8bb69d22bd28e19e90091516f05922a49251dc4bd4878e0926b09ecf78"
+    },
+    "lp_osa_14": {
+      "url": "https://sparse.tamu.edu/MM/LPnetlib/lp_osa_14.tar.gz",
+      "normalized_mm_sha256": "15ff84a6caba5a6755bdcdc963fe739d3ed89f26076a21ed0428ade24a0de988",
+      "canonical_csr_sha256": "1578084da7f06b1cd19c34b76d94a80e9f1c20dda68cbca3b32fe38a4b81431f"
+    },
+    "lp_osa_30": {
+      "url": "https://sparse.tamu.edu/MM/LPnetlib/lp_osa_30.tar.gz",
+      "normalized_mm_sha256": "01fcc847421fc17f3f07e5f38457f8f3d36575d4e94f3c44f7d7505c1fcd2668",
+      "canonical_csr_sha256": "0bf3c17d3ed0d2e93e475f3065c0bc1bc2d7ab93dde4ef1ac7f4f047643d3dda",
+      "reuse_csr_sha256": "0bf3c17d3ed0d2e93e475f3065c0bc1bc2d7ab93dde4ef1ac7f4f047643d3dda"
+    },
+    "lp_pds_02": {
+      "url": "https://sparse.tamu.edu/MM/LPnetlib/lp_pds_02.tar.gz",
+      "normalized_mm_sha256": "c4b8262363aa08c0f1f5b9489f01f081b13ef7939c48daafe9f3cd98437238f6",
+      "canonical_csr_sha256": "a6dadc7021ffad4154c84f4b5730385032cff5f459b7ac6de7a87a922a240a81"
+    },
+    "lp_pilot87": {
+      "url": "https://sparse.tamu.edu/MM/LPnetlib/lp_pilot87.tar.gz",
+      "normalized_mm_sha256": "179396ddd07df7fe4087d644c8ce3d13ddfc04aed3e55392324d202b566cef3a",
+      "canonical_csr_sha256": "a3f4a4069423bef587664a993cfee6777e2637581de66016e6df4f8fc6b83edd"
+    },
+    "lp_stocfor3": {
+      "url": "https://sparse.tamu.edu/MM/LPnetlib/lp_stocfor3.tar.gz",
+      "normalized_mm_sha256": "a94d6cfcee2daaf427b862a93d124df663b562222dbe0796733536d475156cd2",
+      "canonical_csr_sha256": "583a822b96fda76d67d50199f0ea6f91594b6c932c9496a6b9326cca9c01b4fd"
+    },
+    "west2021": {
+      "url": "https://sparse.tamu.edu/MM/HB/west2021.tar.gz",
+      "normalized_mm_sha256": "f95dae63c36b8586785bd1dbdaed9ffa4d6f4f10f04b92815a3f98a6c49c2e56",
+      "canonical_csr_sha256": "a1ce1fc0fd03a6b7da9dbb3edf62267fe731ad9ad0078d7a6c8816bc48cedc9d",
+      "reuse_csr_sha256": "a1ce1fc0fd03a6b7da9dbb3edf62267fe731ad9ad0078d7a6c8816bc48cedc9d"
+    },
+    "ca-AstroPh": {
+      "url": "https://sparse.tamu.edu/MM/SNAP/ca-AstroPh.tar.gz",
+      "normalized_mm_sha256": "325bd9665bf0470c11b4853cc1e65436cb1f5d247234fe7e102bcb782289365e"
+    },
+    "email-EuAll": {
+      "url": "https://sparse.tamu.edu/MM/SNAP/email-EuAll.tar.gz",
+      "normalized_mm_sha256": "1fcf07bf5da1dbe944d31606fb4b648d83cd74defff5aa37af6a8ffd1152f41f"
+    },
+    "p2p-Gnutella31": {
+      "url": "https://sparse.tamu.edu/MM/SNAP/p2p-Gnutella31.tar.gz",
+      "normalized_mm_sha256": "d746b60b568a76974c6413326be68bae33e1578868379272734363aee5bf2677"
+    },
+    "roadNet-CA": {
+      "url": "https://sparse.tamu.edu/MM/SNAP/roadNet-CA.tar.gz",
+      "normalized_mm_sha256": "fa1bc2b49135a8dbff83707f9a92ed8400151092eb6422c8e67de39d63962b6d"
+    }
+  },
+  "cache_source_sha256": "1f6e6c1f3b7f1a941e82ef4f2e4abb0142cf5273b69db1286efd104bfd2e3923",
+  "cpu_audit_scipy": "1.9.1",
+  "cpu_audit_tolerance": 1e-12,
+  "cpu_audit_seed": 4242
+}

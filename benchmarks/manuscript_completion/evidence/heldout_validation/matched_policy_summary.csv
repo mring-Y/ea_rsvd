@@ -1,0 +1,16 @@
+attained,dataset,groups,invalid_states,matrix,mean_cumulative_ms,mean_output_rho_k,mean_states,policy,unknown_cost_groups
+0,additional72,2,0,ca-AstroPh,86.2688,0.921219,1.0,fixed_largest,0
+0,additional72,2,0,ca-AstroPh,706.14615,0.921219,9.0,rank_residual,0
+0,additional72,2,0,ca-AstroPh,706.14615,0.921219,9.0,residual_pair,0
+0,additional72,2,0,email-EuAll,177.83100000000002,0.928413,1.0,fixed_largest,0
+0,additional72,2,0,email-EuAll,1126.1419500000002,0.928413,9.0,rank_residual,0
+0,additional72,2,0,email-EuAll,1126.1419500000002,0.928413,9.0,residual_pair,0
+0,additional72,2,0,p2p-Gnutella31,116.45349999999999,0.9959834999999999,1.0,fixed_largest,0
+0,additional72,2,0,p2p-Gnutella31,830.3316,0.9959834999999999,9.0,rank_residual,0
+0,additional72,2,0,p2p-Gnutella31,830.3316,0.9959834999999999,9.0,residual_pair,0
+0,additional72,2,0,roadNet-CA,668.3755000000001,0.999985,1.0,fixed_largest,0
+0,additional72,2,0,roadNet-CA,3839.9759999999997,0.999985,9.0,rank_residual,0
+0,additional72,2,0,roadNet-CA,3839.9759999999997,0.999985,9.0,residual_pair,0
+0,additional72,8,0,ALL,262.23220000000003,0.961400125,1.0,fixed_largest,0
+0,additional72,8,0,ALL,1625.648925,0.961400125,9.0,rank_residual,0
+0,additional72,8,0,ALL,1625.648925,0.961400125,9.0,residual_pair,0

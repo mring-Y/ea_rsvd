@@ -1,0 +1,17 @@
+{
+  "dataset": "core450",
+  "source_sha256": "0ff24997102148368a5edded19d88487bed0533667534228eddd34a83e944db4",
+  "analysis_scope": "post hoc measured-state replay; no live-controller or cache benefit timed",
+  "rank": 16,
+  "tau_k": 0.2,
+  "tau_l": 0.2,
+  "max_states": 9,
+  "acceptance": "valid and rho_k<=0.20 for all policies",
+  "baseline": "fixed largest (40,2), one evaluation",
+  "scalar_route": "width-major order, q=0,1,2 at each width",
+  "pair_route": "increase q when rho_l>0.20 and q<2; otherwise expand width resetting q=0; at width40 use remaining powers",
+  "output": "first target reached; otherwise lowest valid observed rho_k, ties by cost,width,power",
+  "failure": "invalid candidates cannot satisfy target; retain their cost/count and advance in unvisited width-major order; unknown failed costs make the cumulative cost unavailable, never zero",
+  "offline_rule": "evaluate full grid, select cheapest valid target, ties by rho_k,width,power; no target remains infeasible",
+  "timer": "sum stored probe-free CUDA-event pipeline intervals, not complete-factor wall times"
+}

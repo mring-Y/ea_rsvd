@@ -1,0 +1,5 @@
+mean_flip_rate,p95_flip_rate,projection_retention,relative_noise_sigma,replicates,scope,seed,states,stop_retention,target_rank_retention,tau_k,tau_l
+0.0,0.0,1.0,0.0,1000,residual-pair-decision-sensitivity,20261011,925,1.0,1.0,0.2,0.2
+0.0,0.0,1.0,0.0001,1000,residual-pair-decision-sensitivity,20261011,925,1.0,1.0,0.2,0.2
+8.64864864864865e-06,0.0,0.9999886363636363,0.001,1000,residual-pair-decision-sensitivity,20261011,925,1.0,1.0,0.2,0.2
+0.0010681081081081079,0.002162162162162162,0.9988678977272726,0.01,1000,residual-pair-decision-sensitivity,20261011,925,1.0,0.9976419753086421,0.2,0.2

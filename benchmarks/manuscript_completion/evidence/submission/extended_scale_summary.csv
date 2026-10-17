@@ -1,0 +1,16 @@
+family,mean_gpu_pipeline_ms,mean_rank_k_residual,n_rows,n_valid,power_steps,scope,target_rank
+amazon0312,372.617,0.992657,1,1,2,single-seed,64
+amazon0312,632.074,0.988929,1,1,2,single-seed,128
+amazon0312,1311.45,0.983115,1,1,2,single-seed,256
+amazon0312,2544.22,0.974019,1,1,2,single-seed,512
+amazon0312,3897.24,0.966348,1,1,2,single-seed,768
+amazon0312,5429.36,0.959409,1,1,2,single-seed,1024
+webbase-1M,472.7345,0.999923,2,2,0,two-seed subset,128
+webbase-1M,845.2455,0.999328,2,2,1,two-seed subset,128
+webbase-1M,,,2,0,2,two-seed subset,128
+webbase-1M,910.512,0.999847,1,1,0,two-seed subset,256
+webbase-1M,1817.54,0.999201,1,1,1,two-seed subset,256
+webbase-1M,2623.71,0.99893,1,1,2,two-seed subset,256
+webbase-1M,335.4165,0.999961,2,2,0,two-seed subset,64
+webbase-1M,501.588,0.999416,2,2,1,two-seed subset,64
+webbase-1M,707.6875,0.999167,2,2,2,two-seed subset,64

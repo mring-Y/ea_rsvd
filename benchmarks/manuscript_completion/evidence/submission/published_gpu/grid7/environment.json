@@ -1,0 +1,94 @@
+{
+  "utc_started": "2026-10-14T11:26:39.544857+00:00",
+  "python": "3.10.8 (main, Nov 24 2022, 14:13:03) [GCC 11.2.0]",
+  "numpy": "1.24.1",
+  "scipy": "1.15.3",
+  "benchmark_source_sha256": "3e70f9557fd4afb9c1caf4de8d59e752c81162ac50570c5d0b4312bda9d5249e",
+  "benchmark_binary_sha256": "56721d1f8d200d48fd96389a6169197b2b82f1a4cf620ec00c30b6b98bd6dcbd",
+  "campaign_source_sha256": "b8214494146810518f34566abc41bd4e98de205604b2488cf22ddc71e368d4e4",
+  "source_snapshot_sha256": {
+    "gpu_compare.cu": "3e70f9557fd4afb9c1caf4de8d59e752c81162ac50570c5d0b4312bda9d5249e",
+    "campaign.py": "b8214494146810518f34566abc41bd4e98de205604b2488cf22ddc71e368d4e4",
+    "benchmark_support.py": "783878c20db6e1c4dd2039d9dd980f0643c39b517072ef39994aef528d57db1a",
+    "analyse_results.py": "164c1d4cf300b07fb9e03726446d980beb61f09e2286fc769c6c9cfad502c87a",
+    "build_gpu.py": "fa0e269f94b88821b2dacdde74b8bdb428c8b79d54a1a57b82c6702035fd3929",
+    "run_autodl_all.sh": "b0b6eeab26a55ca6d977f806e508e326b2cb0c9c121c0510f47a4592b2483d14",
+    "run_autodl_review.sh": "a949bb4f9aab61308eef2214349050075ccfa6f8861cdb895f1491400087c515",
+    "cpu_crosscheck.py": "e1800750764ded66c5c40c9b39c1a717a7f4bd96079606ed1133459ad3b95aa1",
+    "rebuild_summary.py": "271cec105024cefb18bb89be30d1519819cee47defcc34e77c777fa7287dd8cf"
+  },
+  "protocol": "complete factors; resident CSR; synchronized wall clock",
+  "cpu_threads": {
+    "OPENBLAS_NUM_THREADS": "1",
+    "OMP_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1"
+  },
+  "arguments": {
+    "matrices": [
+      "west2021",
+      "lp_osa_30",
+      "lp_pds_02",
+      "ca-HepPh",
+      "email-Enron"
+    ],
+    "ranks": [
+      16,
+      32
+    ],
+    "seeds": [
+      20261013,
+      20261014
+    ],
+    "precisions": [
+      "fp32"
+    ],
+    "solvers": [
+      "rsvd",
+      "primme"
+    ],
+    "oversampling": [
+      24
+    ],
+    "powers": [
+      2,
+      4,
+      6,
+      8
+    ],
+    "eps": [
+      0.01,
+      0.001,
+      1e-05
+    ],
+    "block_sizes": [
+      1,
+      8
+    ],
+    "warmup": 1,
+    "repeats": 3,
+    "timeout": 180,
+    "max_matvecs": 20000,
+    "retain_factors": false
+  },
+  "devices": [
+    {
+      "model": "NVIDIA GeForce RTX 4090 D",
+      "memory": "24564 MiB",
+      "driver": "595.91.07"
+    }
+  ],
+  "recorded_cuda_devices": [
+    {
+      "gpu": "NVIDIA GeForce RTX 4090 D",
+      "compute_capability": "",
+      "cuda_runtime": "",
+      "driver_api": ""
+    },
+    {
+      "gpu": "NVIDIA GeForce RTX 4090 D",
+      "compute_capability": "89",
+      "cuda_runtime": "11080",
+      "driver_api": "13020"
+    }
+  ]
+}
